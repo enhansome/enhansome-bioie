@@ -1,0 +1,416 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Research Overviews"
+    },
+    {
+      "description": "The interdisciplinary nature of BioIE means researchers in this space may share their findings and tools in a variety of ways. They may publish papers in journals, as is common in the biomedical and life sciences. They may publish conference papers and, upon acceptance, give a poster and/or oral presentation at an event; this is common practice in computer science and engineering fields. Conference papers are often published in collections of proceedings. Preprint publication is an increasingly popular and institutionally-accepted way to publish findings as well. Surrounding these formal, written products are the ideas of open science, open data, and open source: the code, data, and software BioIE researchers develop are valuable resources to the community.",
+      "items": [],
+      "title": "Journals and Events"
+    },
+    {
+      "description": "The field changes rapidly enough that tutorials any older than a few years are missing crucial details. A few more recent educational resources are listed below. A good foundational understanding of text mining techniques is very helpful, as is some basic experience with the Python and or R languages. The best option may be to learn by doing.",
+      "items": [],
+      "title": "Tutorials"
+    },
+    {
+      "description": "TBD - watch this space!",
+      "items": [],
+      "title": "LLM Guides"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Biopython",
+          "description": "paper - code - Python tools primarily intended for bioinformatics and computational molecular biology purposes, but also a convenient way to obtain data, including documents/abstracts from PubMed (see Chapter 9 of the documentation).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T14:29:56Z",
+            "owner": "biopython",
+            "repo": "biopython",
+            "stars": 5159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ScispaCy",
+          "description": "paper - A version of the spaCy framework for scientific and biomedical documents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-04T07:49:16Z",
+            "owner": "allenai",
+            "repo": "scispacy",
+            "stars": 1983
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "medaCy",
+          "description": "A system for building predictive medical natural language processing models. Built on the spaCy framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-01T20:05:09Z",
+            "owner": "NLPatVCU",
+            "repo": "medaCy",
+            "stars": 439
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Med7",
+          "description": "paper - code - a Python package and model (for use with spaCy) for doing NER with medication-related concepts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-12-11T22:33:17Z",
+            "owner": "kormilitzin",
+            "repo": "med7",
+            "stars": 226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rentrez",
+          "description": "R utilities for accessing NCBI resources, including PubMed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-07-20T18:36:27Z",
+            "owner": "ropensci",
+            "repo": "rentrez",
+            "stars": 219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bio-SCoRes",
+          "description": "paper - A framework for biomedical coreference resolution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-04-16T21:13:54Z",
+            "owner": "kilicogluh",
+            "repo": "Bio-SCoRes",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Code Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cTAKES",
+          "description": "paper - code - A system for processing the text in electronic medical records. Widely used and open source.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T20:22:16Z",
+            "owner": "apache",
+            "repo": "ctakes",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SemEHR",
+          "description": "paper - an IE infrastructure for electronic health records (EHR). Built on the CogStack project.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-01-13T16:09:25Z",
+            "owner": "CogStack",
+            "repo": "CogStack-SemEHR",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pubrunner",
+          "description": "A framework for running text mining tools on the newest set(s) of documents from PubMed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-07-11T22:13:26Z",
+            "owner": "jakelever",
+            "repo": "pubrunner",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TabInOut",
+          "description": "paper - a framework for IE from tables in the literature.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-04-15T10:10:55Z",
+            "owner": "nikolamilosevic86",
+            "repo": "TabInOut",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepPhe",
+          "description": "A system for processing documents describing cancer presentations. Based on cTAKES (see above).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-22T18:18:56Z",
+            "owner": "DeepPhe",
+            "repo": "DeepPhe-Release",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "II-Commons",
+          "description": "A Node.js CLI and agent skill for deterministic, daily-updated retrieval across PubMed/PMC, arXiv, and supported US policy corpora, with metadata lookup and full-document Markdown retrieval.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-08T12:43:56Z",
+            "owner": "Intelligent-Internet",
+            "repo": "II-Commons-Skills",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Tools, Platforms, and Services"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "brat",
+          "description": "paper - code - The brat rapid annotation tool. Supports producing text annotations visually, through the browser. Not subject specific; appropriate for many annotation projects. Visualization is based on that of the stav tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-03T18:47:31Z",
+            "owner": "nlplab",
+            "repo": "brat",
+            "stars": 1875
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anafora",
+          "description": "paper - An annotation tool with adjudication and progress tracking features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-10-10T03:42:00Z",
+            "owner": "weitechen",
+            "repo": "anafora",
+            "stars": 241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MedTator",
+          "description": "paper - code - An annotation tool designed to have minimal dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-19T19:40:49Z",
+            "owner": "OHNLP",
+            "repo": "MedTator",
+            "stars": 62
+          }
+        }
+      ],
+      "title": "Annotation Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Techniques and Models"
+    },
+    {
+      "description": "TBD - watch this space!",
+      "items": [],
+      "title": "Large Language Models"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SciBERT",
+          "description": "paper - A BERT model trained on >1M papers from the Semantic Scholar database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-22T19:57:07Z",
+            "owner": "allenai",
+            "repo": "scibert",
+            "stars": 1708
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BioBERT",
+          "description": "paper - code - A PubMed and PubMed Central-trained version of the BERT language model.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-06-02T03:28:07Z",
+            "owner": "naver",
+            "repo": "biobert-pretrained",
+            "stars": 706
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BlueBERT",
+          "description": "paper - A BERT model pre-trained on PubMed text and MIMIC-III notes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-25T01:21:44Z",
+            "owner": "ncbi-nlp",
+            "repo": "bluebert",
+            "stars": 598
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "ClinicalBERT - Two language models trained on clinical text have similar names. Both are BERT models trained on the text of clinical notes from the MIMIC-III dataset.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Alsentzer et al Clinical BERT",
+              "description": "paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2020-08-25T14:11:44Z",
+                "owner": "EmilyAlsentzer",
+                "repo": "clinicalBERT",
+                "stars": 773
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Huang et al ClinicalBERT",
+              "description": "paper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-10-17T11:19:35Z",
+                "owner": "kexinhuang12345",
+                "repo": "clinicalBERT",
+                "stars": 446
+              }
+            }
+          ]
+        }
+      ],
+      "title": "BERT models"
+    },
+    {
+      "description": "Some of the datasets listed below require a UMLS Terminology Services (UTS) account to access. Please note that the license granted with the UTS account requires users to submit an annual report about their use of UMLS resources. This is less challenging than it sounds.",
+      "items": [],
+      "title": "Datasets"
+    },
+    {
+      "description": "Do you need a data model? If you are working with biomedical data, then the answer is probably \"Yes\".",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OMOP Common Data Model",
+          "description": "a standard for observational healthcare data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-11T14:40:16Z",
+            "owner": "OHDSI",
+            "repo": "CommonDataModel",
+            "stars": 1074
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Biolink",
+          "description": "code - A data model of biological entities. Provided as a YAML file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T23:36:03Z",
+            "owner": "biolink",
+            "repo": "biolink-model",
+            "stars": 258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unmiri-ngs-fhir-schema",
+          "description": "Apache-2.0 JSON Schema (Draft 2020-12) API contract for cross-vendor somatic NGS interpretation output (Foundation Medicine, Tempus, Caris, Guardant), aligned with the HL7 FHIR Genomics IG. A standards-aligned target representation for biomedical information-extraction pipelines that parse oncology lab reports.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-09T04:47:14Z",
+            "owner": "unmirihealth",
+            "repo": "unmiri-ngs-fhir-schema",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Data Models"
+    },
+    {
+      "description": "Credits for curators and sources.",
+      "items": [],
+      "title": "Credits"
+    },
+    {
+      "description": "License",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T09:21:54.444Z",
+    "original_repository": "caufieldjh/awesome-bioie",
+    "original_repository_sha": "2689dd4118e0cb9be19a164bbf5165188f010d70",
+    "enhanced_repository": "enhansome/enhansome-bioie",
+    "enhanced_repository_description": null,
+    "title": "Awesome bioie with stars"
+  }
+}
