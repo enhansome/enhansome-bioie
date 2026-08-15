@@ -34,7 +34,7 @@
             "last_commit": "2026-08-06T14:29:56Z",
             "owner": "biopython",
             "repo": "biopython",
-            "stars": 5162
+            "stars": 5163
           }
         },
         {
@@ -214,7 +214,7 @@
             "last_commit": "2024-07-03T18:47:31Z",
             "owner": "nlplab",
             "repo": "brat",
-            "stars": 1875
+            "stars": 1876
           }
         },
         {
@@ -272,7 +272,7 @@
             "last_commit": "2022-02-22T19:57:07Z",
             "owner": "allenai",
             "repo": "scibert",
-            "stars": 1708
+            "stars": 1709
           }
         },
         {
@@ -357,7 +357,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-14T07:57:55Z",
+            "last_commit": "2026-08-14T20:20:52Z",
             "owner": "OHDSI",
             "repo": "CommonDataModel",
             "stars": 1074
@@ -406,7 +406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T09:16:33.491Z",
+    "last_updated": "2026-08-15T08:41:09.873Z",
     "original_repository": "caufieldjh/awesome-bioie",
     "original_repository_sha": "2689dd4118e0cb9be19a164bbf5165188f010d70",
     "enhanced_repository": "enhansome/enhansome-bioie",
