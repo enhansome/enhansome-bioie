@@ -48,7 +48,7 @@
             "last_commit": "2025-12-04T07:49:16Z",
             "owner": "allenai",
             "repo": "scispacy",
-            "stars": 1984
+            "stars": 1985
           }
         },
         {
@@ -124,7 +124,7 @@
             "last_commit": "2026-08-12T20:22:16Z",
             "owner": "apache",
             "repo": "ctakes",
-            "stars": 133
+            "stars": 134
           }
         },
         {
@@ -371,7 +371,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T23:36:03Z",
+            "last_commit": "2026-08-16T06:43:37Z",
             "owner": "biolink",
             "repo": "biolink-model",
             "stars": 258
@@ -406,7 +406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T08:41:09.873Z",
+    "last_updated": "2026-08-16T08:42:11.692Z",
     "original_repository": "caufieldjh/awesome-bioie",
     "original_repository_sha": "2689dd4118e0cb9be19a164bbf5165188f010d70",
     "enhanced_repository": "enhansome/enhansome-bioie",
