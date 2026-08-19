@@ -18,7 +18,7 @@ BioIE has undergone massive changes since the introduction of language models li
 
 Resources included here are preferentially those available at no monetary cost and limited license requirements. Methods and datasets should be publicly accessible and actively maintained.
 
-See also [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 18,907 | 🐛 9 | 📅 2026-08-18, [awesome-biology](https://github.com/raivivek/awesome-biology) ⭐ 449 | 🐛 3 | 📅 2026-05-17 and [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) ⭐ 4,239 | 🐛 34 | 📅 2026-04-07.
+See also [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 18,907 | 🐛 10 | 📅 2026-08-18, [awesome-biology](https://github.com/raivivek/awesome-biology) ⭐ 449 | 🐛 3 | 📅 2026-05-17 and [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) ⭐ 4,239 | 🐛 34 | 📅 2026-04-07.
 
 *Please read the [contribution guidelines](contributing.md) before contributing. Please add your favourite resource by raising a [pull request](https://github.com/caufieldjh/awesome-bioie/pulls) ⭐ 463 | 🐛 8 | 📅 2026-05-26.*
 
