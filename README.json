@@ -1,27 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Research Overviews"
-    },
-    {
-      "description": "The interdisciplinary nature of BioIE means researchers in this space may share their findings and tools in a variety of ways. They may publish papers in journals, as is common in the biomedical and life sciences. They may publish conference papers and, upon acceptance, give a poster and/or oral presentation at an event; this is common practice in computer science and engineering fields. Conference papers are often published in collections of proceedings. Preprint publication is an increasingly popular and institutionally-accepted way to publish findings as well. Surrounding these formal, written products are the ideas of open science, open data, and open source: the code, data, and software BioIE researchers develop are valuable resources to the community.",
-      "items": [],
-      "title": "Journals and Events"
-    },
-    {
-      "description": "The field changes rapidly enough that tutorials any older than a few years are missing crucial details. A few more recent educational resources are listed below. A good foundational understanding of text mining techniques is very helpful, as is some basic experience with the Python and or R languages. The best option may be to learn by doing.",
-      "items": [],
-      "title": "Tutorials"
-    },
-    {
-      "description": "TBD - watch this space!",
-      "items": [],
-      "title": "LLM Guides"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -30,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 151541,
             "language": "Python",
-            "last_commit": "2026-08-18T00:07:41Z",
+            "last_commit": "2026-08-19T00:49:53Z",
             "owner": "biopython",
             "repo": "biopython",
-            "stars": 5163
+            "stars": 5164
           }
         },
         {
@@ -44,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 150172473,
             "language": "Python",
             "last_commit": "2025-12-04T07:49:16Z",
             "owner": "allenai",
             "repo": "scispacy",
-            "stars": 1985
+            "stars": 1986
           }
         },
         {
@@ -58,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 150755179,
             "language": "Python",
             "last_commit": "2022-11-01T20:05:09Z",
             "owner": "NLPatVCU",
@@ -72,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 243384295,
             "language": "Jupyter Notebook",
             "last_commit": "2024-12-11T22:33:17Z",
             "owner": "kormilitzin",
@@ -86,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3418841,
             "language": "R",
             "last_commit": "2026-07-20T18:36:27Z",
             "owner": "ropensci",
@@ -100,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51609382,
             "language": "Java",
             "last_commit": "2020-04-16T21:13:54Z",
             "owner": "kilicogluh",
@@ -111,7 +97,7 @@
       "title": "Code Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -120,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 572068762,
             "language": "Java",
             "last_commit": "2026-08-12T20:22:16Z",
             "owner": "apache",
@@ -134,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 70899474,
             "language": "JavaScript",
             "last_commit": "2023-01-13T16:09:25Z",
             "owner": "CogStack",
@@ -148,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101930683,
             "language": "Python",
             "last_commit": "2020-07-11T22:13:26Z",
             "owner": "jakelever",
@@ -162,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55707065,
             "language": "Python",
             "last_commit": "2019-04-15T10:10:55Z",
             "owner": "nikolamilosevic86",
@@ -176,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105557409,
             "language": null,
             "last_commit": "2026-07-22T18:18:56Z",
             "owner": "DeepPhe",
@@ -190,164 +181,166 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1249199315,
             "language": "JavaScript",
             "last_commit": "2026-07-08T12:43:56Z",
             "owner": "Intelligent-Internet",
             "repo": "II-Commons-Skills",
             "stars": 14
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "brat",
+              "description": "paper - code - The brat rapid annotation tool. Supports producing text annotations visually, through the browser. Not subject specific; appropriate for many annotation projects. Visualization is based on that of the stav tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1301850,
+                "language": "Python",
+                "last_commit": "2024-07-03T18:47:31Z",
+                "owner": "nlplab",
+                "repo": "brat",
+                "stars": 1877
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Anafora",
+              "description": "paper - An annotation tool with adjudication and progress tracking features.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9301458,
+                "language": "JavaScript",
+                "last_commit": "2022-10-10T03:42:00Z",
+                "owner": "weitechen",
+                "repo": "anafora",
+                "stars": 241
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MedTator",
+              "description": "paper - code - An annotation tool designed to have minimal dependencies.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 395766206,
+                "language": "JavaScript",
+                "last_commit": "2025-02-19T19:40:49Z",
+                "owner": "OHNLP",
+                "repo": "MedTator",
+                "stars": 62
+              }
+            }
+          ],
+          "description": "Back to Top",
+          "node_type": "group",
+          "title": "Annotation Tools"
         }
       ],
       "title": "Tools, Platforms, and Services"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "brat",
-          "description": "paper - code - The brat rapid annotation tool. Supports producing text annotations visually, through the browser. Not subject specific; appropriate for many annotation projects. Visualization is based on that of the stav tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-07-03T18:47:31Z",
-            "owner": "nlplab",
-            "repo": "brat",
-            "stars": 1877
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Anafora",
-          "description": "paper - An annotation tool with adjudication and progress tracking features.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-10-10T03:42:00Z",
-            "owner": "weitechen",
-            "repo": "anafora",
-            "stars": 241
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MedTator",
-          "description": "paper - code - An annotation tool designed to have minimal dependencies.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-02-19T19:40:49Z",
-            "owner": "OHNLP",
-            "repo": "MedTator",
-            "stars": 62
-          }
-        }
-      ],
-      "title": "Annotation Tools"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Techniques and Models"
-    },
-    {
-      "description": "TBD - watch this space!",
-      "items": [],
-      "title": "Large Language Models"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "SciBERT",
-          "description": "paper - A BERT model trained on >1M papers from the Semantic Scholar database.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-02-22T19:57:07Z",
-            "owner": "allenai",
-            "repo": "scibert",
-            "stars": 1710
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BioBERT",
-          "description": "paper - code - A PubMed and PubMed Central-trained version of the BERT language model.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2020-06-02T03:28:07Z",
-            "owner": "naver",
-            "repo": "biobert-pretrained",
-            "stars": 706
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BlueBERT",
-          "description": "paper - A BERT model pre-trained on PubMed text and MIMIC-III notes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-03-25T01:21:44Z",
-            "owner": "ncbi-nlp",
-            "repo": "bluebert",
-            "stars": 598
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "ClinicalBERT - Two language models trained on clinical text have similar names. Both are BERT models trained on the text of clinical notes from the MIMIC-III dataset.",
-          "description": null,
           "children": [
             {
               "node_type": "item",
-              "title": "Alsentzer et al Clinical BERT",
-              "description": "paper",
+              "title": "SciBERT",
+              "description": "paper - A BERT model trained on >1M papers from the Semantic Scholar database.",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 168397780,
                 "language": "Python",
-                "last_commit": "2020-08-25T14:11:44Z",
-                "owner": "EmilyAlsentzer",
-                "repo": "clinicalBERT",
-                "stars": 773
+                "last_commit": "2022-02-22T19:57:07Z",
+                "owner": "allenai",
+                "repo": "scibert",
+                "stars": 1710
               }
             },
             {
               "node_type": "item",
-              "title": "Huang et al ClinicalBERT",
-              "description": "paper",
+              "title": "BioBERT",
+              "description": "paper - code - A PubMed and PubMed Central-trained version of the BERT language model.",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "Jupyter Notebook",
-                "last_commit": "2022-10-17T11:19:35Z",
-                "owner": "kexinhuang12345",
-                "repo": "clinicalBERT",
-                "stars": 447
+                "id": 167883658,
+                "language": null,
+                "last_commit": "2020-06-02T03:28:07Z",
+                "owner": "naver",
+                "repo": "biobert-pretrained",
+                "stars": 706
               }
+            },
+            {
+              "node_type": "item",
+              "title": "BlueBERT",
+              "description": "paper - A BERT model pre-trained on PubMed text and MIMIC-III notes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 190591634,
+                "language": "Python",
+                "last_commit": "2023-03-25T01:21:44Z",
+                "owner": "ncbi-nlp",
+                "repo": "bluebert",
+                "stars": 598
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "ClinicalBERT - Two language models trained on clinical text have similar names. Both are BERT models trained on the text of clinical notes from the MIMIC-III dataset.",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Alsentzer et al Clinical BERT",
+                  "description": "paper",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 179753075,
+                    "language": "Python",
+                    "last_commit": "2020-08-25T14:11:44Z",
+                    "owner": "EmilyAlsentzer",
+                    "repo": "clinicalBERT",
+                    "stars": 773
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Huang et al ClinicalBERT",
+                  "description": "paper",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 178530206,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2022-10-17T11:19:35Z",
+                    "owner": "kexinhuang12345",
+                    "repo": "clinicalBERT",
+                    "stars": 447
+                  }
+                }
+              ]
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "BERT models"
         }
       ],
-      "title": "BERT models"
+      "title": "Techniques and Models"
     },
     {
-      "description": "Some of the datasets listed below require a UMLS Terminology Services (UTS) account to access. Please note that the license granted with the UTS account requires users to submit an annual report about their use of UMLS resources. This is less challenging than it sounds.",
-      "items": [],
-      "title": "Datasets"
-    },
-    {
-      "description": "Do you need a data model? If you are working with biomedical data, then the answer is probably \"Yes\".",
+      "description": "Do you need a data model? If you are working with biomedical data, then the answer is probably \"Yes\".\nBack to Top",
       "items": [
         {
           "node_type": "item",
@@ -356,6 +349,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25224860,
             "language": "HTML",
             "last_commit": "2026-08-17T20:15:13Z",
             "owner": "OHDSI",
@@ -370,8 +364,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112995625,
             "language": "Python",
-            "last_commit": "2026-08-16T06:43:37Z",
+            "last_commit": "2026-08-18T23:16:40Z",
             "owner": "biolink",
             "repo": "biolink-model",
             "stars": 258
@@ -384,6 +379,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1229972731,
             "language": "Python",
             "last_commit": "2026-05-09T04:47:14Z",
             "owner": "unmirihealth",
@@ -393,20 +389,10 @@
         }
       ],
       "title": "Data Models"
-    },
-    {
-      "description": "Credits for curators and sources.",
-      "items": [],
-      "title": "Credits"
-    },
-    {
-      "description": "License",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T08:50:08.209Z",
+    "last_updated": "2026-08-19T08:50:59.234Z",
     "original_repository": "caufieldjh/awesome-bioie",
     "original_repository_sha": "2689dd4118e0cb9be19a164bbf5165188f010d70",
     "enhanced_repository": "enhansome/enhansome-bioie",
