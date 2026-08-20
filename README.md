@@ -18,9 +18,9 @@ BioIE has undergone massive changes since the introduction of language models li
 
 Resources included here are preferentially those available at no monetary cost and limited license requirements. Methods and datasets should be publicly accessible and actively maintained.
 
-See also [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 18,907 | 🐛 10 | 📅 2026-08-18, [awesome-biology](https://github.com/raivivek/awesome-biology) ⭐ 449 | 🐛 3 | 📅 2026-05-17 and [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) ⭐ 4,239 | 🐛 34 | 📅 2026-04-07.
+See also [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 18,910 | 🐛 10 | 📅 2026-08-18, [awesome-biology](https://github.com/raivivek/awesome-biology) ⭐ 449 | 🐛 3 | 📅 2026-05-17 and [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) ⭐ 4,244 | 🐛 34 | 📅 2026-04-07.
 
-*Please read the [contribution guidelines](contributing.md) before contributing. Please add your favourite resource by raising a [pull request](https://github.com/caufieldjh/awesome-bioie/pulls) ⭐ 463 | 🐛 8 | 📅 2026-05-26.*
+*Please read the [contribution guidelines](contributing.md) before contributing. Please add your favourite resource by raising a [pull request](https://github.com/caufieldjh/awesome-bioie/pulls) ⭐ 464 | 🐛 8 | 📅 2026-05-26.*
 
 ## Contents
 
@@ -149,7 +149,7 @@ The field changes rapidly enough that tutorials any older than a few years are m
 
 ## Code Libraries
 
-* [Biopython](https://biopython.org/) - [paper](http://dx.doi.org/10.1093/bioinformatics/btp163) - [code](https://github.com/biopython/biopython) ⭐ 5,164 | 🐛 608 | 🌐 Python | 📅 2026-08-19 - Python tools primarily intended for bioinformatics and computational molecular biology purposes, but also a convenient way to obtain data, including documents/abstracts from PubMed (see Chapter 9 of the documentation).
+* [Biopython](https://biopython.org/) - [paper](http://dx.doi.org/10.1093/bioinformatics/btp163) - [code](https://github.com/biopython/biopython) ⭐ 5,163 | 🐛 608 | 🌐 Python | 📅 2026-08-19 - Python tools primarily intended for bioinformatics and computational molecular biology purposes, but also a convenient way to obtain data, including documents/abstracts from PubMed (see Chapter 9 of the documentation).
 * [ScispaCy](https://github.com/allenai/SciSpaCy) ⭐ 1,986 | 🐛 56 | 🌐 Python | 📅 2025-12-04 - [paper](https://arxiv.org/abs/1902.07669) - A version of the [spaCy](https://spacy.io/) framework for scientific and biomedical documents.
 * [medaCy](https://github.com/NLPatVCU/medaCy) ⭐ 439 | 🐛 23 | 🌐 Python | 📅 2022-11-01 - A system for building predictive medical natural language processing models. Built on the [spaCy](https://spacy.io/) framework.
 * [Med7](https://medium.com/@kormilitzin/med7-clinical-information-extraction-system-in-python-and-spacy-5e6f68ab1c68) - [paper](https://arxiv.org/abs/2003.01271) - [code](https://github.com/kormilitzin/med7) ⭐ 226 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2024-12-11 - a Python package and model (for use with spaCy) for doing NER with medication-related concepts.
@@ -201,7 +201,7 @@ The field changes rapidly enough that tutorials any older than a few years are m
 
 ### GPT-2 models
 
-* [BioGPT](https://github.com/microsoft/BioGPT) ⭐ 4,487 | 🐛 74 | 🌐 Python | 📅 2024-07-25 - [paper](https://doi.org/10.1093/bib/bbac409) - A GPT-2 model pre-trained on 15 million PubMed abstracts, along with fine-tuned versions for several biomedical tasks.
+* [BioGPT](https://github.com/microsoft/BioGPT) ⭐ 4,486 | 🐛 74 | 🌐 Python | 📅 2024-07-25 - [paper](https://doi.org/10.1093/bib/bbac409) - A GPT-2 model pre-trained on 15 million PubMed abstracts, along with fine-tuned versions for several biomedical tasks.
 
 ### Other models
 
@@ -269,7 +269,7 @@ Protein-protein interactions are abbreviated as PPI. The following sets are avai
 
 ## Ontologies and Controlled Vocabularies
 
-* [Disease Ontology](http://www.disease-ontology.org/) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4383880/) - An ontology of human diseases. Has cross-links to MeSH, ICD, NCI Thesaurus, SNOMED, and OMIM. Public domain. Available on [GitHub](https://github.com/DiseaseOntology/HumanDiseaseOntology) ⭐ 409 | 🐛 84 | 🌐 Makefile | 📅 2026-08-11 and on the [OBO Foundry](http://www.obofoundry.org/ontology/doid.html).
+* [Disease Ontology](http://www.disease-ontology.org/) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4383880/) - An ontology of human diseases. Has cross-links to MeSH, ICD, NCI Thesaurus, SNOMED, and OMIM. Public domain. Available on [GitHub](https://github.com/DiseaseOntology/HumanDiseaseOntology) ⭐ 409 | 🐛 83 | 🌐 Makefile | 📅 2026-08-19 and on the [OBO Foundry](http://www.obofoundry.org/ontology/doid.html).
 * [RxNorm](https://www.nlm.nih.gov/research/umls/rxnorm/index.html) - [paper](https://academic.oup.com/jamia/article/18/4/441/734170) - Normalized names for clinical drugs and drug packs, with combined ingredients, strengths, and form, and assigned types from the Semantic Network (see below). Released monthly.
 * [SPECIALIST Lexicon](https://lexsrv3.nlm.nih.gov/Specialist/Summary/lexicon.html) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2247735/) - A general English lexicon that includes many biomedical terms. Updated yearly since 1994 and still updated as of 2019. Part of UMLS but does not require UTS account to download.
 * [UMLS Metathesaurus](https://www.nlm.nih.gov/research/umls/knowledge_sources/metathesaurus/index.html) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC308795/) - Mappings between >3.8 million concepts, 14 million concept names, and >200 sources of biomedical vocabulary and identifiers. It's big. It may help to prepare a subset of the Metathesaurus with the [MetamorphoSys installation tool](https://www.nlm.nih.gov/research/umls/implementation_resources/metamorphosys/help.html) but we're still talking about \~30 Gb of disk space required for the 2019 release. [See the manual here](https://www.ncbi.nlm.nih.gov/books/NBK9684/). Requires UTS account.
@@ -281,7 +281,7 @@ Protein-protein interactions are abbreviated as PPI. The following sets are avai
 
 Do you need a [data model](https://en.wikipedia.org/wiki/Data_model)? If you are working with biomedical data, then the answer is probably "Yes".
 
-* [OMOP Common Data Model](https://github.com/OHDSI/CommonDataModel) ⭐ 1,074 | 🐛 84 | 🌐 HTML | 📅 2026-08-17 - a standard for observational healthcare data.
+* [OMOP Common Data Model](https://github.com/OHDSI/CommonDataModel) ⭐ 1,074 | 🐛 85 | 🌐 HTML | 📅 2026-08-19 - a standard for observational healthcare data.
 * [Biolink](https://biolink.github.io/biolink-model/) - [code](https://github.com/biolink/biolink-model) ⭐ 258 | 🐛 189 | 🌐 Python | 📅 2026-08-18 - A data model of biological entities. Provided as a [YAML](https://yaml.org/) file.
 * [unmiri-ngs-fhir-schema](https://github.com/unmirihealth/unmiri-ngs-fhir-schema) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-05-09 - Apache-2.0 JSON Schema (Draft 2020-12) API contract for cross-vendor somatic NGS interpretation output (Foundation Medicine, Tempus, Caris, Guardant), aligned with the HL7 FHIR Genomics IG. A standards-aligned target representation for biomedical information-extraction pipelines that parse oncology lab reports.
 * [BioUML](http://wiki.biouml.org/index.php/BioUML) - [paper](https://academic.oup.com/nar/article/47/W1/W225/5498754) - An architecture for biomedical data analysis, integration, and visualization. Conceptually based on the visual modeling language [UML](https://www.uml.org/what-is-uml.htm).
@@ -300,4 +300,4 @@ Do you need a [data model](https://en.wikipedia.org/wiki/Data_model)? If you are
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._

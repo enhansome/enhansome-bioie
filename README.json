@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T00:49:53Z",
             "owner": "biopython",
             "repo": "biopython",
-            "stars": 5164
+            "stars": 5163
           }
         },
         {
@@ -351,7 +351,7 @@
             "archived": false,
             "id": 25224860,
             "language": "HTML",
-            "last_commit": "2026-08-17T20:15:13Z",
+            "last_commit": "2026-08-19T19:54:39Z",
             "owner": "OHDSI",
             "repo": "CommonDataModel",
             "stars": 1074
@@ -392,7 +392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:18:52.219Z",
+    "last_updated": "2026-08-20T08:51:55.236Z",
     "original_repository": "caufieldjh/awesome-bioie",
     "original_repository_id": 203651338,
     "original_repository_sha": "2689dd4118e0cb9be19a164bbf5165188f010d70",
