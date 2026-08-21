@@ -12,10 +12,10 @@
             "archived": false,
             "id": 151541,
             "language": "Python",
-            "last_commit": "2026-08-19T00:49:53Z",
+            "last_commit": "2026-08-20T15:46:25Z",
             "owner": "biopython",
             "repo": "biopython",
-            "stars": 5163
+            "stars": 5165
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-12-04T07:49:16Z",
             "owner": "allenai",
             "repo": "scispacy",
-            "stars": 1986
+            "stars": 1985
           }
         },
         {
@@ -203,7 +203,7 @@
                 "last_commit": "2024-07-03T18:47:31Z",
                 "owner": "nlplab",
                 "repo": "brat",
-                "stars": 1877
+                "stars": 1878
               }
             },
             {
@@ -291,7 +291,7 @@
                 "last_commit": "2023-03-25T01:21:44Z",
                 "owner": "ncbi-nlp",
                 "repo": "bluebert",
-                "stars": 598
+                "stars": 597
               }
             },
             {
@@ -366,7 +366,7 @@
             "archived": false,
             "id": 112995625,
             "language": "Python",
-            "last_commit": "2026-08-18T23:16:40Z",
+            "last_commit": "2026-08-20T16:59:54Z",
             "owner": "biolink",
             "repo": "biolink-model",
             "stars": 258
@@ -392,7 +392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T08:51:55.236Z",
+    "last_updated": "2026-08-21T08:54:08.321Z",
     "original_repository": "caufieldjh/awesome-bioie",
     "original_repository_id": 203651338,
     "original_repository_sha": "2689dd4118e0cb9be19a164bbf5165188f010d70",
