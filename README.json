@@ -15,7 +15,7 @@
             "last_commit": "2026-08-20T15:46:25Z",
             "owner": "biopython",
             "repo": "biopython",
-            "stars": 5171
+            "stars": 5172
           }
         },
         {
@@ -92,6 +92,28 @@
             "repo": "Bio-SCoRes",
             "stars": 10
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mimic-code",
+              "description": "Code associated with the MIMIC-III dataset (see below). Includes some helpful tutorials.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41767943,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-11T01:47:50Z",
+                "owner": "MIT-LCP",
+                "repo": "mimic-code",
+                "stars": 3351
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Repos for Specific Datasets"
         }
       ],
       "title": "Code Libraries"
@@ -237,7 +259,7 @@
               }
             }
           ],
-          "description": "Back to Top",
+          "description": null,
           "node_type": "group",
           "title": "Annotation Tools"
         }
@@ -335,12 +357,128 @@
           "description": null,
           "node_type": "group",
           "title": "BERT models"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BioGPT",
+              "description": "paper - A GPT-2 model pre-trained on 15 million PubMed abstracts, along with fine-tuned versions for several biomedical tasks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 524871042,
+                "language": "Python",
+                "last_commit": "2024-07-25T10:33:53Z",
+                "owner": "microsoft",
+                "repo": "BioGPT",
+                "stars": 4487
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "GPT-2 models"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Flair embeddings from PubMed",
+              "description": "A language model available through the Flair framework and embedding method. Trained over a 5% sample of PubMed abstracts until 2015, or > 1.2 million abstracts in total.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 136914524,
+                "language": "Python",
+                "last_commit": "2025-10-27T18:11:31Z",
+                "owner": "flairNLP",
+                "repo": "flair",
+                "stars": 14384
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other models"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BioWordVec",
+              "description": "paper - code - Word embeddings derived from biomedical text (>27 million PubMed titles and abstracts), including subword embedding model based on MeSH.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 172099021,
+                "language": "Python",
+                "last_commit": "2023-11-30T23:28:01Z",
+                "owner": "ncbi-nlp",
+                "repo": "BioWordVec",
+                "stars": 154
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Text Embeddings"
         }
       ],
       "title": "Techniques and Models"
     },
     {
-      "description": "Do you need a data model? If you are working with biomedical data, then the answer is probably \"Yes\".\nBack to Top",
+      "description": "Some of the datasets listed below require a UMLS Terminology Services (UTS) account to access. Please note that the license granted with the UTS account requires users to submit an annual report about their use of UMLS resources. This is less challenging than it sounds.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CORD-19",
+              "description": "A corpus of scholarly manuscripts concerning COVID-19. Articles are primarily from PubMed Central and preprint servers, though the set also includes metadata on papers without full-text availability.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 259176573,
+                "language": null,
+                "last_commit": "2025-05-14T00:02:58Z",
+                "owner": "allenai",
+                "repo": "cord19",
+                "stars": 188
+              }
+            }
+          ],
+          "description": "The following resources contain indexed text documents in the biomedical sciences.",
+          "node_type": "group",
+          "title": "Biomedical Text Sources"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CRAFT",
+              "description": "paper - 67 full-text biomedical articles annotated in a variety of ways, including for concepts and coreferences. Now on version 5, including annotations linking concepts to the MONDO disease ontology.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 131652081,
+                "language": "Clojure",
+                "last_commit": "2026-08-12T15:26:51Z",
+                "owner": "lhunter-lab",
+                "repo": "CRAFT",
+                "stars": 82
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Annotated Text Data"
+        }
+      ],
+      "title": "Datasets"
+    },
+    {
+      "description": "Do you need a data model? If you are working with biomedical data, then the answer is probably \"Yes\".",
       "items": [
         {
           "node_type": "item",
@@ -392,7 +530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T08:59:58.069Z",
+    "last_updated": "2026-08-24T14:24:45.021Z",
     "original_repository": "caufieldjh/awesome-bioie",
     "original_repository_id": 203651338,
     "original_repository_sha": "2689dd4118e0cb9be19a164bbf5165188f010d70",
