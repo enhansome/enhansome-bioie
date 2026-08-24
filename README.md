@@ -18,7 +18,7 @@ BioIE has undergone massive changes since the introduction of language models li
 
 Resources included here are preferentially those available at no monetary cost and limited license requirements. Methods and datasets should be publicly accessible and actively maintained.
 
-See also [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 18,921 | 🐛 12 | 📅 2026-08-18, [awesome-biology](https://github.com/raivivek/awesome-biology) ⭐ 449 | 🐛 3 | 📅 2026-05-17 and [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) ⭐ 4,251 | 🐛 35 | 📅 2026-04-07.
+See also [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 18,926 | 🐛 13 | 📅 2026-08-18, [awesome-biology](https://github.com/raivivek/awesome-biology) ⭐ 450 | 🐛 4 | 📅 2026-05-17 and [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) ⭐ 4,253 | 🐛 35 | 📅 2026-04-07.
 
 *Please read the [contribution guidelines](contributing.md) before contributing. Please add your favourite resource by raising a [pull request](https://github.com/caufieldjh/awesome-bioie/pulls) ⭐ 464 | 🐛 8 | 📅 2026-05-26.*
 
@@ -65,7 +65,7 @@ See also [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 18,921 | 🐛 12
   * For some historical context on LBD, see papers by University of Chicago's Don Swanson and Neil Smalheiser, including [*Undiscovered Public Knowledge*](https://www.jstor.org/stable/4307965) (paywalled) and [*Rediscovering Don Swanson: the Past, Present and Future of Literature-Based Discovery*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5771422/).
 * [Mining Electronic Health Records (EHRs): A Survey](https://arxiv.org/abs/1702.03222) - A review of the methods and philosophy behind mining electronic health records, including using them for adverse event detection. See Table 2 for a list of relevant papers as of mid-2017.
 * [Capturing the Patient's Perspective: a Review of Advances in Natural Language Processing of Health-Related Text](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6250990/) - A 2017 review of natural language processing methods applied to information extraction in health records and social media text. An important note from this review: "One of the main challenges in the field is the availability of data that can be shared and which can be used by the community to push the development of methods based on comparable and reproducible studies".
-* [Awesome AI-based Protein Design](https://github.com/opendilab/awesome-AI-based-protein-design) ⭐ 315 | 🐛 0 | 📅 2024-05-13 - This is a collection of research papers for AI-based protein design.
+* [Awesome AI-based Protein Design](https://github.com/opendilab/awesome-AI-based-protein-design) ⭐ 316 | 🐛 0 | 📅 2024-05-13 - This is a collection of research papers for AI-based protein design.
 
 [Back to Top](#contents)
 
@@ -149,27 +149,27 @@ The field changes rapidly enough that tutorials any older than a few years are m
 
 ## Code Libraries
 
-* [Biopython](https://biopython.org/) - [paper](http://dx.doi.org/10.1093/bioinformatics/btp163) - [code](https://github.com/biopython/biopython) ⭐ 5,169 | 🐛 609 | 🌐 Python | 📅 2026-08-20 - Python tools primarily intended for bioinformatics and computational molecular biology purposes, but also a convenient way to obtain data, including documents/abstracts from PubMed (see Chapter 9 of the documentation).
-* [ScispaCy](https://github.com/allenai/SciSpaCy) ⭐ 1,985 | 🐛 56 | 🌐 Python | 📅 2025-12-04 - [paper](https://arxiv.org/abs/1902.07669) - A version of the [spaCy](https://spacy.io/) framework for scientific and biomedical documents.
-* [medaCy](https://github.com/NLPatVCU/medaCy) ⭐ 439 | 🐛 23 | 🌐 Python | 📅 2022-11-01 - A system for building predictive medical natural language processing models. Built on the [spaCy](https://spacy.io/) framework.
-* [Med7](https://medium.com/@kormilitzin/med7-clinical-information-extraction-system-in-python-and-spacy-5e6f68ab1c68) - [paper](https://arxiv.org/abs/2003.01271) - [code](https://github.com/kormilitzin/med7) ⭐ 226 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2024-12-11 - a Python package and model (for use with spaCy) for doing NER with medication-related concepts.
-* [rentrez](https://github.com/ropensci/rentrez) ⭐ 219 | 🐛 54 | 🌐 R | 📅 2026-07-20 - R utilities for accessing NCBI resources, including PubMed.
-* [Bio-SCoRes](https://github.com/kilicogluh/Bio-SCoRes) ⭐ 9 | 🐛 0 | 🌐 Java | 📅 2020-04-16 - [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0148538) - A framework for biomedical coreference resolution.
+* [Biopython](https://biopython.org/) - [paper](http://dx.doi.org/10.1093/bioinformatics/btp163) - [code](https://github.com/biopython/biopython) ⭐ 5,171 | 🐛 606 | 🌐 Python | 📅 2026-08-20 - Python tools primarily intended for bioinformatics and computational molecular biology purposes, but also a convenient way to obtain data, including documents/abstracts from PubMed (see Chapter 9 of the documentation).
+* [ScispaCy](https://github.com/allenai/SciSpaCy) ⭐ 1,986 | 🐛 56 | 🌐 Python | 📅 2025-12-04 - [paper](https://arxiv.org/abs/1902.07669) - A version of the [spaCy](https://spacy.io/) framework for scientific and biomedical documents.
+* [medaCy](https://github.com/NLPatVCU/medaCy) ⭐ 440 | 🐛 23 | 🌐 Python | 📅 2022-11-01 - A system for building predictive medical natural language processing models. Built on the [spaCy](https://spacy.io/) framework.
+* [Med7](https://medium.com/@kormilitzin/med7-clinical-information-extraction-system-in-python-and-spacy-5e6f68ab1c68) - [paper](https://arxiv.org/abs/2003.01271) - [code](https://github.com/kormilitzin/med7) ⭐ 227 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2024-12-11 - a Python package and model (for use with spaCy) for doing NER with medication-related concepts.
+* [rentrez](https://github.com/ropensci/rentrez) ⭐ 220 | 🐛 54 | 🌐 R | 📅 2026-07-20 - R utilities for accessing NCBI resources, including PubMed.
+* [Bio-SCoRes](https://github.com/kilicogluh/Bio-SCoRes) ⭐ 10 | 🐛 0 | 🌐 Java | 📅 2020-04-16 - [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0148538) - A framework for biomedical coreference resolution.
 
 ### Repos for Specific Datasets
 
-* [mimic-code](https://github.com/MIT-LCP/mimic-code) ⭐ 3,348 | 🐛 322 | 🌐 Jupyter Notebook | 📅 2026-08-11 - Code associated with the MIMIC-III dataset (see below). Includes some helpful [tutorials](https://github.com/MIT-LCP/mimic-code/tree/master/tutorials) ⭐ 3,348 | 🐛 322 | 🌐 Jupyter Notebook | 📅 2026-08-11.
+* [mimic-code](https://github.com/MIT-LCP/mimic-code) ⭐ 3,349 | 🐛 322 | 🌐 Jupyter Notebook | 📅 2026-08-11 - Code associated with the MIMIC-III dataset (see below). Includes some helpful [tutorials](https://github.com/MIT-LCP/mimic-code/tree/master/tutorials) ⭐ 3,349 | 🐛 322 | 🌐 Jupyter Notebook | 📅 2026-08-11.
 
 [Back to Top](#contents)
 
 ## Tools, Platforms, and Services
 
-* [cTAKES](https://ctakes.apache.org/) - [paper](https://academic.oup.com/jamia/article/17/5/507/830823) - [code](https://github.com/apache/ctakes) ⭐ 134 | 🐛 10 | 🌐 Java | 📅 2026-08-12 - A system for processing the text in electronic medical records. Widely used and open source.
+* [cTAKES](https://ctakes.apache.org/) - [paper](https://academic.oup.com/jamia/article/17/5/507/830823) - [code](https://github.com/apache/ctakes) ⭐ 135 | 🐛 10 | 🌐 Java | 📅 2026-08-12 - A system for processing the text in electronic medical records. Widely used and open source.
 * [SemEHR](https://github.com/CogStack/CogStack-SemEHR) ⚠️ Archived - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6019046/) - an IE infrastructure for electronic health records (EHR). Built on the [CogStack project](https://github.com/CogStack).
-* [Pubrunner](https://github.com/jakelever/pubrunner) ⭐ 42 | 🐛 0 | 🌐 Python | 📅 2020-07-11 - A framework for running text mining tools on the newest set(s) of documents from PubMed.
-* [TabInOut](https://github.com/nikolamilosevic86/TabInOut) ⭐ 41 | 🐛 0 | 🌐 Python | 📅 2019-04-15 - [paper](https://link.springer.com/article/10.1007/s10032-019-00317-0) - a framework for IE from tables in the literature.
-* [DeepPhe](https://github.com/DeepPhe/DeepPhe-Release) ⭐ 30 | 🐛 0 | 📅 2026-07-22 - A system for processing documents describing cancer presentations. Based on cTAKES (see above).
-* [II-Commons](https://github.com/Intelligent-Internet/II-Commons-Skills) ⭐ 14 | 🐛 1 | 🌐 JavaScript | 📅 2026-07-08 - A Node.js CLI and agent skill for deterministic, daily-updated retrieval across PubMed/PMC, arXiv, and supported US policy corpora, with metadata lookup and full-document Markdown retrieval.
+* [Pubrunner](https://github.com/jakelever/pubrunner) ⭐ 43 | 🐛 0 | 🌐 Python | 📅 2020-07-11 - A framework for running text mining tools on the newest set(s) of documents from PubMed.
+* [TabInOut](https://github.com/nikolamilosevic86/TabInOut) ⭐ 42 | 🐛 0 | 🌐 Python | 📅 2019-04-15 - [paper](https://link.springer.com/article/10.1007/s10032-019-00317-0) - a framework for IE from tables in the literature.
+* [DeepPhe](https://github.com/DeepPhe/DeepPhe-Release) ⭐ 31 | 🐛 0 | 📅 2026-07-22 - A system for processing documents describing cancer presentations. Based on cTAKES (see above).
+* [II-Commons](https://github.com/Intelligent-Internet/II-Commons-Skills) ⭐ 15 | 🐛 1 | 🌐 JavaScript | 📅 2026-07-08 - A Node.js CLI and agent skill for deterministic, daily-updated retrieval across PubMed/PMC, arXiv, and supported US policy corpora, with metadata lookup and full-document Markdown retrieval.
 * [CLAMP](https://clamp.uth.edu/) - [paper](https://academic.oup.com/jamia/article/25/3/331/4657212) - A natural language processing toolkit intended for use with the text in clinical reports. Check out their [live demo](https://clamp.uth.edu/clampdemo.php) first to see what it does. Usable at no cost for academic research.
 * [DNorm](https://www.ncbi.nlm.nih.gov/research/bionlp/Tools/dnorm/) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3810844/) - A method for disease normalization, i.e., linking mentions of disease names and acronyms to unique concept identifiers. Downloadable version includes the NCBI Disease Corpus and BC5CDR (see Annotated Text Data below).
 * [PubTator Central](https://www.ncbi.nlm.nih.gov/research/pubtator/) - [paper](https://academic.oup.com/nar/article/47/W1/W587/5494727) - A web platform that identifies five different types of biomedical concepts in PubMed articles and PubMed Central full texts. The full annotation sets are downloadable (see [Annotated Text Data](#annotated-text-data) below).
@@ -177,9 +177,9 @@ The field changes rapidly enough that tutorials any older than a few years are m
 
 ### Annotation Tools
 
-* [brat](https://brat.nlplab.org/) - [paper](https://www.aclweb.org/anthology/E12-2021/) - [code](https://github.com/nlplab/brat) ⭐ 1,878 | 🐛 493 | 🌐 Python | 📅 2024-07-03 - The brat rapid annotation tool. Supports producing text annotations visually, through the browser. Not subject specific; appropriate for many annotation projects. Visualization is based on that of the [*stav* tool](https://github.com/nlplab/stav/) ⭐ 34 | 🐛 1 | 🌐 Python | 📅 2011-11-02.
-* [Anafora](https://github.com/weitechen/anafora) ⭐ 241 | 🐛 43 | 🌐 JavaScript | 📅 2022-10-10 - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5657237/) - An annotation tool with adjudication and progress tracking features.
-* [MedTator](https://ohnlp.github.io/MedTator/) - [paper](https://academic.oup.com/bioinformatics/article-abstract/38/6/1776/6496915) - [code](https://github.com/OHNLP/MedTator) ⭐ 62 | 🐛 8 | 🌐 JavaScript | 📅 2025-02-19 - An annotation tool designed to have minimal dependencies.
+* [brat](https://brat.nlplab.org/) - [paper](https://www.aclweb.org/anthology/E12-2021/) - [code](https://github.com/nlplab/brat) ⭐ 1,879 | 🐛 493 | 🌐 Python | 📅 2024-07-03 - The brat rapid annotation tool. Supports producing text annotations visually, through the browser. Not subject specific; appropriate for many annotation projects. Visualization is based on that of the [*stav* tool](https://github.com/nlplab/stav/) ⭐ 35 | 🐛 1 | 🌐 Python | 📅 2011-11-02.
+* [Anafora](https://github.com/weitechen/anafora) ⭐ 242 | 🐛 43 | 🌐 JavaScript | 📅 2022-10-10 - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5657237/) - An annotation tool with adjudication and progress tracking features.
+* [MedTator](https://ohnlp.github.io/MedTator/) - [paper](https://academic.oup.com/bioinformatics/article-abstract/38/6/1776/6496915) - [code](https://github.com/OHNLP/MedTator) ⭐ 63 | 🐛 8 | 🌐 JavaScript | 📅 2025-02-19 - An annotation tool designed to have minimal dependencies.
 
 [Back to Top](#contents)
 
@@ -191,27 +191,27 @@ The field changes rapidly enough that tutorials any older than a few years are m
 
 ### BERT models
 
-* [SciBERT](https://github.com/allenai/scibert) ⭐ 1,710 | 🐛 60 | 🌐 Python | 📅 2022-02-22 - [paper](https://arxiv.org/abs/1903.10676) - A BERT model trained on >1M papers from the Semantic Scholar database.
-* [BioBERT](https://github.com/naver/biobert-pretrained) ⭐ 706 | 🐛 7 | 📅 2020-06-02 - [paper](https://arxiv.org/abs/1901.08746) - [code](https://github.com/dmis-lab/biobert) ⭐ 2,203 | 🐛 57 | 🌐 Python | 📅 2023-08-13 - A PubMed and PubMed Central-trained version of the [BERT language model](https://arxiv.org/abs/1810.04805).
-* [BlueBERT](https://github.com/ncbi-nlp/bluebert) ⭐ 597 | 🐛 6 | 🌐 Python | 📅 2023-03-25 - [paper](https://arxiv.org/abs/1906.05474) - A BERT model pre-trained on PubMed text and MIMIC-III notes.
+* [SciBERT](https://github.com/allenai/scibert) ⭐ 1,711 | 🐛 60 | 🌐 Python | 📅 2022-02-22 - [paper](https://arxiv.org/abs/1903.10676) - A BERT model trained on >1M papers from the Semantic Scholar database.
+* [BioBERT](https://github.com/naver/biobert-pretrained) ⭐ 707 | 🐛 7 | 📅 2020-06-02 - [paper](https://arxiv.org/abs/1901.08746) - [code](https://github.com/dmis-lab/biobert) ⭐ 2,204 | 🐛 57 | 🌐 Python | 📅 2023-08-13 - A PubMed and PubMed Central-trained version of the [BERT language model](https://arxiv.org/abs/1810.04805).
+* [BlueBERT](https://github.com/ncbi-nlp/bluebert) ⭐ 598 | 🐛 6 | 🌐 Python | 📅 2023-03-25 - [paper](https://arxiv.org/abs/1906.05474) - A BERT model pre-trained on PubMed text and MIMIC-III notes.
 * ClinicalBERT - Two language models trained on clinical text have similar names. Both are BERT models trained on the text of clinical notes from the MIMIC-III dataset.
-  * [Alsentzer et al Clinical BERT](https://github.com/EmilyAlsentzer/clinicalBERT) ⭐ 773 | 🐛 10 | 🌐 Python | 📅 2020-08-25 - [paper](https://www.aclweb.org/anthology/W19-1909/)
-  * [Huang et al ClinicalBERT](https://github.com/kexinhuang12345/clinicalBERT) ⭐ 447 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2022-10-17 - [paper](https://arxiv.org/abs/1904.05342)
+  * [Alsentzer et al Clinical BERT](https://github.com/EmilyAlsentzer/clinicalBERT) ⭐ 774 | 🐛 10 | 🌐 Python | 📅 2020-08-25 - [paper](https://www.aclweb.org/anthology/W19-1909/)
+  * [Huang et al ClinicalBERT](https://github.com/kexinhuang12345/clinicalBERT) ⭐ 448 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2022-10-17 - [paper](https://arxiv.org/abs/1904.05342)
 * [PubMedBERT](https://microsoft.github.io/BLURB/models.html) - [paper](https://arxiv.org/abs/2007.15779) - A BERT model trained from scratch on PubMed, with versions trained on abstracts+full texts and on abstracts alone.
 
 ### GPT-2 models
 
-* [BioGPT](https://github.com/microsoft/BioGPT) ⭐ 4,484 | 🐛 74 | 🌐 Python | 📅 2024-07-25 - [paper](https://doi.org/10.1093/bib/bbac409) - A GPT-2 model pre-trained on 15 million PubMed abstracts, along with fine-tuned versions for several biomedical tasks.
+* [BioGPT](https://github.com/microsoft/BioGPT) ⭐ 4,487 | 🐛 75 | 🌐 Python | 📅 2024-07-25 - [paper](https://doi.org/10.1093/bib/bbac409) - A GPT-2 model pre-trained on 15 million PubMed abstracts, along with fine-tuned versions for several biomedical tasks.
 
 ### Other models
 
-* [Flair embeddings from PubMed](https://github.com/zalandoresearch/flair/pull/519) ⭐ 14,382 | 🐛 31 | 🌐 Python | 📅 2025-10-27 - A language model available through the Flair framework and embedding method. Trained over a 5% sample of PubMed abstracts until 2015, or > 1.2 million abstracts in total.
+* [Flair embeddings from PubMed](https://github.com/zalandoresearch/flair/pull/519) ⭐ 14,383 | 🐛 31 | 🌐 Python | 📅 2025-10-27 - A language model available through the Flair framework and embedding method. Trained over a 5% sample of PubMed abstracts until 2015, or > 1.2 million abstracts in total.
 
 ### Text Embeddings
 
 * [This paper from Hongfang Liu's group at Mayo Clinic](https://www.sciencedirect.com/science/article/pii/S1532046418301825) demonstrates how text embeddings trained on biomedical or clinical text can, but don't always, perform better on biomedical natural language processing tasks. That being said, pre-trained embeddings may be appropriate for your needs, especially as training domain-specific embeddings can be computationally intensive.
 * [BioASQword2vec](http://bioasq.org/news/bioasq-releases-continuous-space-word-vectors-obtained-applying-word2vec-pubmed-abstracts) - [paper](http://bioasq.lip6.fr/info/BioASQword2vec/) - Qord embeddings derived from biomedical text (>10 million PubMed abstracts) using the popular [word2vec](https://code.google.com/archive/p/word2vec/) tool.
-* [BioWordVec](https://figshare.com/articles/Improving_Biomedical_Word_Embeddings_with_Subword_Information_and_MeSH_Ontology/6882647) - [paper](https://www.nature.com/articles/s41597-019-0055-0) - [code](https://github.com/ncbi-nlp/BioWordVec) ⭐ 153 | 🐛 2 | 🌐 Python | 📅 2023-11-30 - Word embeddings derived from biomedical text (>27 million PubMed titles and abstracts), including subword embedding model based on MeSH.
+* [BioWordVec](https://figshare.com/articles/Improving_Biomedical_Word_Embeddings_with_Subword_Information_and_MeSH_Ontology/6882647) - [paper](https://www.nature.com/articles/s41597-019-0055-0) - [code](https://github.com/ncbi-nlp/BioWordVec) ⭐ 154 | 🐛 2 | 🌐 Python | 📅 2023-11-30 - Word embeddings derived from biomedical text (>27 million PubMed titles and abstracts), including subword embedding model based on MeSH.
 
 [Back to Top](#contents)
 
@@ -225,7 +225,7 @@ The following resources contain indexed text documents in the biomedical science
 
 * [OHSUMED](http://davis.wpi.edu/xmdv/datasets/ohsumed.html) - [paper](https://dl.acm.org/citation.cfm?id=188557) - 348,566 MEDLINE entries (title and sometimes abstract) from between 1987 and 1991. Includes MeSH labels. Primarily of historical significance.
 * [PubMed Central Open Access Subset](https://www.ncbi.nlm.nih.gov/pmc/tools/openftlist/) - A set of PubMed Central articles usable under licenses other than traditional copyright, though the exact licenses vary by publication and source. Articles are available as PDF and XML.
-* [CORD-19](https://github.com/allenai/cord19) ⭐ 187 | 🐛 2 | 📅 2025-05-14 - A corpus of scholarly manuscripts concerning COVID-19. Articles are primarily from PubMed Central and preprint servers, though the set also includes metadata on papers without full-text availability.
+* [CORD-19](https://github.com/allenai/cord19) ⭐ 188 | 🐛 2 | 📅 2025-05-14 - A corpus of scholarly manuscripts concerning COVID-19. Articles are primarily from PubMed Central and preprint servers, though the set also includes metadata on papers without full-text availability.
 
 ### Annotated Text Data
 
@@ -234,7 +234,7 @@ The following resources contain indexed text documents in the biomedical science
 * [BioCreAtIvE 2](https://sourceforge.net/projects/biocreative/files/) - [paper](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2008-9-s2-s1) - 15,000 sentences (10,000 training and 5,000 test, different from the first corpus) annotated for protein and gene names. 542 abstracts linked to EntrezGene identifiers. A variety of research articles annotated for features of protein–protein interactions.
 * [BioCreAtIvE V CDR Task Corpus (BC5CDR)](https://biocreative.bioinformatics.udel.edu/accounts/login/?next=/resources/corpora/biocreative-v-cdr-corpus/) - [paper](https://academic.oup.com/database/article/doi/10.1093/database/baw068/2630414) - 1,500 articles (title and abstract) published in 2014 or later, annotated for 4,409 chemicals, 5,818 diseases and 3116 chemical–disease interactions. Requires registration.
 * [BioCreative VI CHEMPROT Corpus](https://biocreative.bioinformatics.udel.edu/resources/corpora/chemprot-corpus-biocreative-vi/#chemprot-corpus-biocreative-vi:downloads) - [paper](https://pdfs.semanticscholar.org/eed7/81f498b563df5a9e8a241c67d63dd1d92ad5.pdf) - >2,400 articles annotated with chemical-protein interactions of a variety of relation types. Requires registration.
-* [CRAFT](https://github.com/UCDenver-ccp/CRAFT) ⭐ 81 | 🐛 0 | 🌐 Clojure | 📅 2026-08-12 - [paper](https://link.springer.com/chapter/10.1007/978-94-024-0881-2_53) - 67 full-text biomedical articles annotated in a variety of ways, including for concepts and coreferences. Now on version 5, including annotations linking concepts to the MONDO disease ontology.
+* [CRAFT](https://github.com/UCDenver-ccp/CRAFT) ⭐ 82 | 🐛 0 | 🌐 Clojure | 📅 2026-08-12 - [paper](https://link.springer.com/chapter/10.1007/978-94-024-0881-2_53) - 67 full-text biomedical articles annotated in a variety of ways, including for concepts and coreferences. Now on version 5, including annotations linking concepts to the MONDO disease ontology.
 * [n2c2 (formerly i2b2) Data](https://portal.dbmi.hms.harvard.edu/projects/n2c2-nlp/) - The Department of Biomedical Informatics (DBMI) at Harvard Medical School manages data for the National NLP Clinical Challenges and the Informatics for Integrating Biology and the Bedside challenges running since 2006. They require registration before access and use. Datasets include a variety of topics. See the [list of data challenges](https://portal.dbmi.hms.harvard.edu/data-challenges/) for individual descriptions.
 * [NCBI Disease Corpus](https://www.ncbi.nlm.nih.gov/CBBresearch/Dogan/DISEASE/) - [paper](https://www.sciencedirect.com/science/article/pii/S1532046413001974) - A corpus of 793 biomedical abstracts annotated with names of diseases and related concepts from MeSH and [OMIM](https://omim.org/).
 * [PubTator Central datasets](https://www.ncbi.nlm.nih.gov/research/pubtator/) - [paper](https://academic.oup.com/nar/article/47/W1/W587/5494727) - Accessible through a RESTful API or FTP download. Includes annotations for >29 million abstracts and ∼3 million full text documents.
@@ -269,7 +269,7 @@ Protein-protein interactions are abbreviated as PPI. The following sets are avai
 
 ## Ontologies and Controlled Vocabularies
 
-* [Disease Ontology](http://www.disease-ontology.org/) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4383880/) - An ontology of human diseases. Has cross-links to MeSH, ICD, NCI Thesaurus, SNOMED, and OMIM. Public domain. Available on [GitHub](https://github.com/DiseaseOntology/HumanDiseaseOntology) ⭐ 410 | 🐛 83 | 🌐 Makefile | 📅 2026-08-19 and on the [OBO Foundry](http://www.obofoundry.org/ontology/doid.html).
+* [Disease Ontology](http://www.disease-ontology.org/) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4383880/) - An ontology of human diseases. Has cross-links to MeSH, ICD, NCI Thesaurus, SNOMED, and OMIM. Public domain. Available on [GitHub](https://github.com/DiseaseOntology/HumanDiseaseOntology) ⭐ 412 | 🐛 83 | 🌐 Makefile | 📅 2026-08-19 and on the [OBO Foundry](http://www.obofoundry.org/ontology/doid.html).
 * [RxNorm](https://www.nlm.nih.gov/research/umls/rxnorm/index.html) - [paper](https://academic.oup.com/jamia/article/18/4/441/734170) - Normalized names for clinical drugs and drug packs, with combined ingredients, strengths, and form, and assigned types from the Semantic Network (see below). Released monthly.
 * [SPECIALIST Lexicon](https://lexsrv3.nlm.nih.gov/Specialist/Summary/lexicon.html) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2247735/) - A general English lexicon that includes many biomedical terms. Updated yearly since 1994 and still updated as of 2019. Part of UMLS but does not require UTS account to download.
 * [UMLS Metathesaurus](https://www.nlm.nih.gov/research/umls/knowledge_sources/metathesaurus/index.html) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC308795/) - Mappings between >3.8 million concepts, 14 million concept names, and >200 sources of biomedical vocabulary and identifiers. It's big. It may help to prepare a subset of the Metathesaurus with the [MetamorphoSys installation tool](https://www.nlm.nih.gov/research/umls/implementation_resources/metamorphosys/help.html) but we're still talking about \~30 Gb of disk space required for the 2019 release. [See the manual here](https://www.ncbi.nlm.nih.gov/books/NBK9684/). Requires UTS account.
@@ -281,9 +281,9 @@ Protein-protein interactions are abbreviated as PPI. The following sets are avai
 
 Do you need a [data model](https://en.wikipedia.org/wiki/Data_model)? If you are working with biomedical data, then the answer is probably "Yes".
 
-* [OMOP Common Data Model](https://github.com/OHDSI/CommonDataModel) ⭐ 1,075 | 🐛 84 | 🌐 HTML | 📅 2026-08-21 - a standard for observational healthcare data.
-* [Biolink](https://biolink.github.io/biolink-model/) - [code](https://github.com/biolink/biolink-model) ⭐ 258 | 🐛 190 | 🌐 Python | 📅 2026-08-20 - A data model of biological entities. Provided as a [YAML](https://yaml.org/) file.
-* [unmiri-ngs-fhir-schema](https://github.com/unmirihealth/unmiri-ngs-fhir-schema) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-05-09 - Apache-2.0 JSON Schema (Draft 2020-12) API contract for cross-vendor somatic NGS interpretation output (Foundation Medicine, Tempus, Caris, Guardant), aligned with the HL7 FHIR Genomics IG. A standards-aligned target representation for biomedical information-extraction pipelines that parse oncology lab reports.
+* [OMOP Common Data Model](https://github.com/OHDSI/CommonDataModel) ⭐ 1,076 | 🐛 84 | 🌐 HTML | 📅 2026-08-21 - a standard for observational healthcare data.
+* [Biolink](https://biolink.github.io/biolink-model/) - [code](https://github.com/biolink/biolink-model) ⭐ 259 | 🐛 190 | 🌐 Python | 📅 2026-08-20 - A data model of biological entities. Provided as a [YAML](https://yaml.org/) file.
+* [unmiri-ngs-fhir-schema](https://github.com/unmirihealth/unmiri-ngs-fhir-schema) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-05-09 - Apache-2.0 JSON Schema (Draft 2020-12) API contract for cross-vendor somatic NGS interpretation output (Foundation Medicine, Tempus, Caris, Guardant), aligned with the HL7 FHIR Genomics IG. A standards-aligned target representation for biomedical information-extraction pipelines that parse oncology lab reports.
 * [BioUML](http://wiki.biouml.org/index.php/BioUML) - [paper](https://academic.oup.com/nar/article/47/W1/W225/5498754) - An architecture for biomedical data analysis, integration, and visualization. Conceptually based on the visual modeling language [UML](https://www.uml.org/what-is-uml.htm).
 
 [Back to Top](#contents)
@@ -300,4 +300,4 @@ Do you need a [data model](https://en.wikipedia.org/wiki/Data_model)? If you are
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

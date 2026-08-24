@@ -15,7 +15,7 @@
             "last_commit": "2026-08-20T15:46:25Z",
             "owner": "biopython",
             "repo": "biopython",
-            "stars": 5169
+            "stars": 5171
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-12-04T07:49:16Z",
             "owner": "allenai",
             "repo": "scispacy",
-            "stars": 1985
+            "stars": 1986
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2022-11-01T20:05:09Z",
             "owner": "NLPatVCU",
             "repo": "medaCy",
-            "stars": 439
+            "stars": 440
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2024-12-11T22:33:17Z",
             "owner": "kormilitzin",
             "repo": "med7",
-            "stars": 226
+            "stars": 227
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-07-20T18:36:27Z",
             "owner": "ropensci",
             "repo": "rentrez",
-            "stars": 219
+            "stars": 220
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2020-04-16T21:13:54Z",
             "owner": "kilicogluh",
             "repo": "Bio-SCoRes",
-            "stars": 9
+            "stars": 10
           }
         }
       ],
@@ -111,7 +111,7 @@
             "last_commit": "2026-08-12T20:22:16Z",
             "owner": "apache",
             "repo": "ctakes",
-            "stars": 134
+            "stars": 135
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2020-07-11T22:13:26Z",
             "owner": "jakelever",
             "repo": "pubrunner",
-            "stars": 42
+            "stars": 43
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2019-04-15T10:10:55Z",
             "owner": "nikolamilosevic86",
             "repo": "TabInOut",
-            "stars": 41
+            "stars": 42
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-07-22T18:18:56Z",
             "owner": "DeepPhe",
             "repo": "DeepPhe-Release",
-            "stars": 30
+            "stars": 31
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-07-08T12:43:56Z",
             "owner": "Intelligent-Internet",
             "repo": "II-Commons-Skills",
-            "stars": 14
+            "stars": 15
           }
         },
         {
@@ -203,7 +203,7 @@
                 "last_commit": "2024-07-03T18:47:31Z",
                 "owner": "nlplab",
                 "repo": "brat",
-                "stars": 1878
+                "stars": 1879
               }
             },
             {
@@ -218,7 +218,7 @@
                 "last_commit": "2022-10-10T03:42:00Z",
                 "owner": "weitechen",
                 "repo": "anafora",
-                "stars": 241
+                "stars": 242
               }
             },
             {
@@ -233,7 +233,7 @@
                 "last_commit": "2025-02-19T19:40:49Z",
                 "owner": "OHNLP",
                 "repo": "MedTator",
-                "stars": 62
+                "stars": 63
               }
             }
           ],
@@ -261,7 +261,7 @@
                 "last_commit": "2022-02-22T19:57:07Z",
                 "owner": "allenai",
                 "repo": "scibert",
-                "stars": 1710
+                "stars": 1711
               }
             },
             {
@@ -276,7 +276,7 @@
                 "last_commit": "2020-06-02T03:28:07Z",
                 "owner": "naver",
                 "repo": "biobert-pretrained",
-                "stars": 706
+                "stars": 707
               }
             },
             {
@@ -291,7 +291,7 @@
                 "last_commit": "2023-03-25T01:21:44Z",
                 "owner": "ncbi-nlp",
                 "repo": "bluebert",
-                "stars": 597
+                "stars": 598
               }
             },
             {
@@ -311,7 +311,7 @@
                     "last_commit": "2020-08-25T14:11:44Z",
                     "owner": "EmilyAlsentzer",
                     "repo": "clinicalBERT",
-                    "stars": 773
+                    "stars": 774
                   }
                 },
                 {
@@ -326,7 +326,7 @@
                     "last_commit": "2022-10-17T11:19:35Z",
                     "owner": "kexinhuang12345",
                     "repo": "clinicalBERT",
-                    "stars": 447
+                    "stars": 448
                   }
                 }
               ]
@@ -354,7 +354,7 @@
             "last_commit": "2026-08-21T13:16:05Z",
             "owner": "OHDSI",
             "repo": "CommonDataModel",
-            "stars": 1075
+            "stars": 1076
           }
         },
         {
@@ -369,7 +369,7 @@
             "last_commit": "2026-08-20T16:59:54Z",
             "owner": "biolink",
             "repo": "biolink-model",
-            "stars": 258
+            "stars": 259
           }
         },
         {
@@ -384,7 +384,7 @@
             "last_commit": "2026-05-09T04:47:14Z",
             "owner": "unmirihealth",
             "repo": "unmiri-ngs-fhir-schema",
-            "stars": 4
+            "stars": 5
           }
         }
       ],
@@ -392,7 +392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T08:43:57.833Z",
+    "last_updated": "2026-08-24T08:59:58.069Z",
     "original_repository": "caufieldjh/awesome-bioie",
     "original_repository_id": 203651338,
     "original_repository_sha": "2689dd4118e0cb9be19a164bbf5165188f010d70",
