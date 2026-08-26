@@ -15,7 +15,7 @@
             "last_commit": "2026-08-20T15:46:25Z",
             "owner": "biopython",
             "repo": "biopython",
-            "stars": 5174
+            "stars": 5176
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-12-04T07:49:16Z",
             "owner": "allenai",
             "repo": "scispacy",
-            "stars": 1986
+            "stars": 1988
           }
         },
         {
@@ -104,10 +104,10 @@
                 "archived": false,
                 "id": 41767943,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-25T01:27:09Z",
+                "last_commit": "2026-08-25T10:25:03Z",
                 "owner": "MIT-LCP",
                 "repo": "mimic-code",
-                "stars": 3351
+                "stars": 3353
               }
             }
           ],
@@ -283,7 +283,7 @@
                 "last_commit": "2022-02-22T19:57:07Z",
                 "owner": "allenai",
                 "repo": "scibert",
-                "stars": 1711
+                "stars": 1712
               }
             },
             {
@@ -489,7 +489,7 @@
             "archived": false,
             "id": 25224860,
             "language": "HTML",
-            "last_commit": "2026-08-21T13:16:05Z",
+            "last_commit": "2026-08-25T17:22:48Z",
             "owner": "OHDSI",
             "repo": "CommonDataModel",
             "stars": 1077
@@ -507,7 +507,7 @@
             "last_commit": "2026-08-20T16:59:54Z",
             "owner": "biolink",
             "repo": "biolink-model",
-            "stars": 259
+            "stars": 260
           }
         },
         {
@@ -530,7 +530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T08:54:56.973Z",
+    "last_updated": "2026-08-26T08:57:24.042Z",
     "original_repository": "caufieldjh/awesome-bioie",
     "original_repository_id": 203651338,
     "original_repository_sha": "2689dd4118e0cb9be19a164bbf5165188f010d70",
