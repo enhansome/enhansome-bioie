@@ -107,7 +107,7 @@
                 "last_commit": "2026-08-25T10:25:03Z",
                 "owner": "MIT-LCP",
                 "repo": "mimic-code",
-                "stars": 3353
+                "stars": 3356
               }
             }
           ],
@@ -255,7 +255,7 @@
                 "last_commit": "2025-02-19T19:40:49Z",
                 "owner": "OHNLP",
                 "repo": "MedTator",
-                "stars": 63
+                "stars": 64
               }
             }
           ],
@@ -283,7 +283,7 @@
                 "last_commit": "2022-02-22T19:57:07Z",
                 "owner": "allenai",
                 "repo": "scibert",
-                "stars": 1712
+                "stars": 1713
               }
             },
             {
@@ -313,7 +313,7 @@
                 "last_commit": "2023-03-25T01:21:44Z",
                 "owner": "ncbi-nlp",
                 "repo": "bluebert",
-                "stars": 598
+                "stars": 599
               }
             },
             {
@@ -504,7 +504,7 @@
             "archived": false,
             "id": 112995625,
             "language": "Python",
-            "last_commit": "2026-08-20T16:59:54Z",
+            "last_commit": "2026-08-27T00:27:12Z",
             "owner": "biolink",
             "repo": "biolink-model",
             "stars": 260
@@ -530,9 +530,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T08:57:24.042Z",
-    "original_repository": "caufieldjh/awesome-bioie",
-    "original_repository_id": 203651338,
+    "last_updated": "2026-08-27T11:30:38.183Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 203651338,
+      "language": null,
+      "last_commit": "2026-05-26T15:54:20Z",
+      "owner": "caufieldjh",
+      "repo": "awesome-bioie",
+      "stars": 464
+    },
     "original_repository_sha": "2689dd4118e0cb9be19a164bbf5165188f010d70",
     "enhanced_repository": "enhansome/enhansome-bioie",
     "enhanced_repository_description": null,
