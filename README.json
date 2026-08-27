@@ -504,7 +504,7 @@
             "archived": false,
             "id": 112995625,
             "language": "Python",
-            "last_commit": "2026-08-27T00:27:12Z",
+            "last_commit": "2026-08-27T17:49:59Z",
             "owner": "biolink",
             "repo": "biolink-model",
             "stars": 260
@@ -530,7 +530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:30:38.183Z",
+    "last_updated": "2026-08-27T19:02:36.655Z",
     "original_repository_info": {
       "archived": false,
       "id": 203651338,
