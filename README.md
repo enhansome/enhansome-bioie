@@ -18,9 +18,9 @@ BioIE has undergone massive changes since the introduction of language models li
 
 Resources included here are preferentially those available at no monetary cost and limited license requirements. Methods and datasets should be publicly accessible and actively maintained.
 
-See also [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 18,936 | 🐛 14 | 📅 2026-08-18, [awesome-biology](https://github.com/raivivek/awesome-biology) ⭐ 452 | 🐛 4 | 📅 2026-05-17 and [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) ⭐ 4,261 | 🐛 35 | 📅 2026-04-07.
+See also [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 18,939 | 🐛 15 | 📅 2026-08-18, [awesome-biology](https://github.com/raivivek/awesome-biology) ⭐ 452 | 🐛 4 | 📅 2026-05-17 and [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) ⭐ 4,260 | 🐛 35 | 📅 2026-04-07.
 
-*Please read the [contribution guidelines](contributing.md) before contributing. Please add your favourite resource by raising a [pull request](https://github.com/caufieldjh/awesome-bioie/pulls) ⭐ 464 | 🐛 8 | 📅 2026-05-26.*
+*Please read the [contribution guidelines](contributing.md) before contributing. Please add your favourite resource by raising a [pull request](https://github.com/caufieldjh/awesome-bioie/pulls) ⭐ 465 | 🐛 8 | 📅 2026-05-26.*
 
 ## Contents
 
@@ -158,7 +158,7 @@ The field changes rapidly enough that tutorials any older than a few years are m
 
 ### Repos for Specific Datasets
 
-* [mimic-code](https://github.com/MIT-LCP/mimic-code) ⭐ 3,356 | 🐛 319 | 🌐 Jupyter Notebook | 📅 2026-08-25 - Code associated with the MIMIC-III dataset (see below). Includes some helpful [tutorials](https://github.com/MIT-LCP/mimic-code/tree/master/tutorials) ⭐ 3,356 | 🐛 319 | 🌐 Jupyter Notebook | 📅 2026-08-25.
+* [mimic-code](https://github.com/MIT-LCP/mimic-code) ⭐ 3,357 | 🐛 319 | 🌐 Jupyter Notebook | 📅 2026-08-25 - Code associated with the MIMIC-III dataset (see below). Includes some helpful [tutorials](https://github.com/MIT-LCP/mimic-code/tree/master/tutorials) ⭐ 3,357 | 🐛 319 | 🌐 Jupyter Notebook | 📅 2026-08-25.
 
 [Back to Top](#contents)
 
@@ -191,8 +191,8 @@ The field changes rapidly enough that tutorials any older than a few years are m
 
 ### BERT models
 
-* [SciBERT](https://github.com/allenai/scibert) ⭐ 1,713 | 🐛 60 | 🌐 Python | 📅 2022-02-22 - [paper](https://arxiv.org/abs/1903.10676) - A BERT model trained on >1M papers from the Semantic Scholar database.
-* [BioBERT](https://github.com/naver/biobert-pretrained) ⭐ 707 | 🐛 7 | 📅 2020-06-02 - [paper](https://arxiv.org/abs/1901.08746) - [code](https://github.com/dmis-lab/biobert) ⭐ 2,204 | 🐛 57 | 🌐 Python | 📅 2023-08-13 - A PubMed and PubMed Central-trained version of the [BERT language model](https://arxiv.org/abs/1810.04805).
+* [SciBERT](https://github.com/allenai/scibert) ⭐ 1,715 | 🐛 60 | 🌐 Python | 📅 2022-02-22 - [paper](https://arxiv.org/abs/1903.10676) - A BERT model trained on >1M papers from the Semantic Scholar database.
+* [BioBERT](https://github.com/naver/biobert-pretrained) ⭐ 707 | 🐛 7 | 📅 2020-06-02 - [paper](https://arxiv.org/abs/1901.08746) - [code](https://github.com/dmis-lab/biobert) ⭐ 2,205 | 🐛 57 | 🌐 Python | 📅 2023-08-13 - A PubMed and PubMed Central-trained version of the [BERT language model](https://arxiv.org/abs/1810.04805).
 * [BlueBERT](https://github.com/ncbi-nlp/bluebert) ⭐ 599 | 🐛 6 | 🌐 Python | 📅 2023-03-25 - [paper](https://arxiv.org/abs/1906.05474) - A BERT model pre-trained on PubMed text and MIMIC-III notes.
 * ClinicalBERT - Two language models trained on clinical text have similar names. Both are BERT models trained on the text of clinical notes from the MIMIC-III dataset.
   * [Alsentzer et al Clinical BERT](https://github.com/EmilyAlsentzer/clinicalBERT) ⭐ 774 | 🐛 10 | 🌐 Python | 📅 2020-08-25 - [paper](https://www.aclweb.org/anthology/W19-1909/)
@@ -282,7 +282,7 @@ Protein-protein interactions are abbreviated as PPI. The following sets are avai
 Do you need a [data model](https://en.wikipedia.org/wiki/Data_model)? If you are working with biomedical data, then the answer is probably "Yes".
 
 * [OMOP Common Data Model](https://github.com/OHDSI/CommonDataModel) ⭐ 1,077 | 🐛 77 | 🌐 HTML | 📅 2026-08-25 - a standard for observational healthcare data.
-* [Biolink](https://biolink.github.io/biolink-model/) - [code](https://github.com/biolink/biolink-model) ⭐ 260 | 🐛 193 | 🌐 Python | 📅 2026-08-27 - A data model of biological entities. Provided as a [YAML](https://yaml.org/) file.
+* [Biolink](https://biolink.github.io/biolink-model/) - [code](https://github.com/biolink/biolink-model) ⭐ 260 | 🐛 191 | 🌐 Python | 📅 2026-08-28 - A data model of biological entities. Provided as a [YAML](https://yaml.org/) file.
 * [unmiri-ngs-fhir-schema](https://github.com/unmirihealth/unmiri-ngs-fhir-schema) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-05-09 - Apache-2.0 JSON Schema (Draft 2020-12) API contract for cross-vendor somatic NGS interpretation output (Foundation Medicine, Tempus, Caris, Guardant), aligned with the HL7 FHIR Genomics IG. A standards-aligned target representation for biomedical information-extraction pipelines that parse oncology lab reports.
 * [BioUML](http://wiki.biouml.org/index.php/BioUML) - [paper](https://academic.oup.com/nar/article/47/W1/W225/5498754) - An architecture for biomedical data analysis, integration, and visualization. Conceptually based on the visual modeling language [UML](https://www.uml.org/what-is-uml.htm).
 
@@ -300,4 +300,4 @@ Do you need a [data model](https://en.wikipedia.org/wiki/Data_model)? If you are
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

@@ -16,7 +16,8 @@
             "owner": "biopython",
             "repo": "biopython",
             "stars": 5176
-          }
+          },
+          "first_seen": "2026-08-28T20:10:31.776Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "allenai",
             "repo": "scispacy",
             "stars": 1988
-          }
+          },
+          "first_seen": "2026-08-28T20:10:31.776Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "NLPatVCU",
             "repo": "medaCy",
             "stars": 441
-          }
+          },
+          "first_seen": "2026-08-28T20:10:31.776Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "kormilitzin",
             "repo": "med7",
             "stars": 227
-          }
+          },
+          "first_seen": "2026-08-28T20:10:31.776Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "ropensci",
             "repo": "rentrez",
             "stars": 220
-          }
+          },
+          "first_seen": "2026-08-28T20:10:31.776Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "kilicogluh",
             "repo": "Bio-SCoRes",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T20:10:31.776Z"
         },
         {
           "children": [
@@ -107,8 +113,9 @@
                 "last_commit": "2026-08-25T10:25:03Z",
                 "owner": "MIT-LCP",
                 "repo": "mimic-code",
-                "stars": 3356
-              }
+                "stars": 3357
+              },
+              "first_seen": "2026-08-28T20:10:31.776Z"
             }
           ],
           "description": null,
@@ -134,7 +141,8 @@
             "owner": "apache",
             "repo": "ctakes",
             "stars": 135
-          }
+          },
+          "first_seen": "2026-08-28T20:10:31.776Z"
         },
         {
           "node_type": "item",
@@ -149,7 +157,8 @@
             "owner": "CogStack",
             "repo": "CogStack-SemEHR",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T20:10:31.776Z"
         },
         {
           "node_type": "item",
@@ -164,7 +173,8 @@
             "owner": "jakelever",
             "repo": "pubrunner",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T20:10:31.776Z"
         },
         {
           "node_type": "item",
@@ -179,7 +189,8 @@
             "owner": "nikolamilosevic86",
             "repo": "TabInOut",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T20:10:31.776Z"
         },
         {
           "node_type": "item",
@@ -194,7 +205,8 @@
             "owner": "DeepPhe",
             "repo": "DeepPhe-Release",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T20:10:31.776Z"
         },
         {
           "node_type": "item",
@@ -209,7 +221,8 @@
             "owner": "Intelligent-Internet",
             "repo": "II-Commons-Skills",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T20:10:31.776Z"
         },
         {
           "children": [
@@ -226,7 +239,8 @@
                 "owner": "nlplab",
                 "repo": "brat",
                 "stars": 1879
-              }
+              },
+              "first_seen": "2026-08-28T20:10:31.776Z"
             },
             {
               "node_type": "item",
@@ -241,7 +255,8 @@
                 "owner": "weitechen",
                 "repo": "anafora",
                 "stars": 242
-              }
+              },
+              "first_seen": "2026-08-28T20:10:31.776Z"
             },
             {
               "node_type": "item",
@@ -256,7 +271,8 @@
                 "owner": "OHNLP",
                 "repo": "MedTator",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-28T20:10:31.776Z"
             }
           ],
           "description": null,
@@ -283,8 +299,9 @@
                 "last_commit": "2022-02-22T19:57:07Z",
                 "owner": "allenai",
                 "repo": "scibert",
-                "stars": 1713
-              }
+                "stars": 1715
+              },
+              "first_seen": "2026-08-28T20:10:31.776Z"
             },
             {
               "node_type": "item",
@@ -299,7 +316,8 @@
                 "owner": "naver",
                 "repo": "biobert-pretrained",
                 "stars": 707
-              }
+              },
+              "first_seen": "2026-08-28T20:10:31.776Z"
             },
             {
               "node_type": "item",
@@ -314,7 +332,8 @@
                 "owner": "ncbi-nlp",
                 "repo": "bluebert",
                 "stars": 599
-              }
+              },
+              "first_seen": "2026-08-28T20:10:31.776Z"
             },
             {
               "node_type": "group",
@@ -334,7 +353,8 @@
                     "owner": "EmilyAlsentzer",
                     "repo": "clinicalBERT",
                     "stars": 774
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:31.776Z"
                 },
                 {
                   "node_type": "item",
@@ -349,7 +369,8 @@
                     "owner": "kexinhuang12345",
                     "repo": "clinicalBERT",
                     "stars": 449
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:31.776Z"
                 }
               ]
             }
@@ -373,7 +394,8 @@
                 "owner": "microsoft",
                 "repo": "BioGPT",
                 "stars": 4488
-              }
+              },
+              "first_seen": "2026-08-28T20:10:31.776Z"
             }
           ],
           "description": null,
@@ -395,7 +417,8 @@
                 "owner": "flairNLP",
                 "repo": "flair",
                 "stars": 14384
-              }
+              },
+              "first_seen": "2026-08-28T20:10:31.776Z"
             }
           ],
           "description": null,
@@ -417,7 +440,8 @@
                 "owner": "ncbi-nlp",
                 "repo": "BioWordVec",
                 "stars": 154
-              }
+              },
+              "first_seen": "2026-08-28T20:10:31.776Z"
             }
           ],
           "description": null,
@@ -445,7 +469,8 @@
                 "owner": "allenai",
                 "repo": "cord19",
                 "stars": 188
-              }
+              },
+              "first_seen": "2026-08-28T20:10:31.776Z"
             }
           ],
           "description": "The following resources contain indexed text documents in the biomedical sciences.",
@@ -467,7 +492,8 @@
                 "owner": "lhunter-lab",
                 "repo": "CRAFT",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-28T20:10:31.776Z"
             }
           ],
           "description": null,
@@ -493,7 +519,8 @@
             "owner": "OHDSI",
             "repo": "CommonDataModel",
             "stars": 1077
-          }
+          },
+          "first_seen": "2026-08-28T20:10:31.776Z"
         },
         {
           "node_type": "item",
@@ -504,11 +531,12 @@
             "archived": false,
             "id": 112995625,
             "language": "Python",
-            "last_commit": "2026-08-27T17:49:59Z",
+            "last_commit": "2026-08-28T19:34:31Z",
             "owner": "biolink",
             "repo": "biolink-model",
             "stars": 260
-          }
+          },
+          "first_seen": "2026-08-28T20:10:31.776Z"
         },
         {
           "node_type": "item",
@@ -523,14 +551,15 @@
             "owner": "unmirihealth",
             "repo": "unmiri-ngs-fhir-schema",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T20:10:31.776Z"
         }
       ],
       "title": "Data Models"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:02:36.655Z",
+    "last_updated": "2026-08-28T20:10:31.776Z",
     "original_repository_info": {
       "archived": false,
       "id": 203651338,
@@ -538,7 +567,7 @@
       "last_commit": "2026-05-26T15:54:20Z",
       "owner": "caufieldjh",
       "repo": "awesome-bioie",
-      "stars": 464
+      "stars": 465
     },
     "original_repository_sha": "2689dd4118e0cb9be19a164bbf5165188f010d70",
     "enhanced_repository": "enhansome/enhansome-bioie",
