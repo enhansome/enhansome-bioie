@@ -608,7 +608,7 @@
                 "open_issues": 75,
                 "owner": "microsoft",
                 "repo": "BioGPT",
-                "stars": 4488,
+                "stars": 4490,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:31.776Z"
@@ -837,7 +837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:44:59.333Z",
+    "last_updated": "2026-08-29T13:48:25.829Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧫 A curated list of resources relevant to doing Biomedical Information Extraction (including BioNLP)",

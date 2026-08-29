@@ -18,7 +18,7 @@ BioIE has undergone massive changes since the introduction of language models li
 
 Resources included here are preferentially those available at no monetary cost and limited license requirements. Methods and datasets should be publicly accessible and actively maintained.
 
-See also [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 18,940 | 🐛 15 | 📅 2026-08-18, [awesome-biology](https://github.com/raivivek/awesome-biology) ⭐ 452 | 🐛 4 | 📅 2026-05-17 and [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) ⭐ 4,261 | 🐛 35 | 📅 2026-04-07.
+See also [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 18,941 | 🐛 15 | 📅 2026-08-18, [awesome-biology](https://github.com/raivivek/awesome-biology) ⭐ 453 | 🐛 5 | 📅 2026-05-17 and [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) ⭐ 4,261 | 🐛 36 | 📅 2026-04-07.
 
 *Please read the [contribution guidelines](contributing.md) before contributing. Please add your favourite resource by raising a [pull request](https://github.com/caufieldjh/awesome-bioie/pulls) ⭐ 465 | 🐛 8 | 📅 2026-05-26.*
 
@@ -192,7 +192,7 @@ The field changes rapidly enough that tutorials any older than a few years are m
 ### BERT models
 
 * [SciBERT](https://github.com/allenai/scibert) ⭐ 1,715 | 🐛 60 | 🌐 Python | 📅 2022-02-22 - [paper](https://arxiv.org/abs/1903.10676) - A BERT model trained on >1M papers from the Semantic Scholar database.
-* [BioBERT](https://github.com/naver/biobert-pretrained) ⭐ 707 | 🐛 7 | 📅 2020-06-02 - [paper](https://arxiv.org/abs/1901.08746) - [code](https://github.com/dmis-lab/biobert) ⭐ 2,205 | 🐛 57 | 🌐 Python | 📅 2023-08-13 - A PubMed and PubMed Central-trained version of the [BERT language model](https://arxiv.org/abs/1810.04805).
+* [BioBERT](https://github.com/naver/biobert-pretrained) ⭐ 707 | 🐛 7 | 📅 2020-06-02 - [paper](https://arxiv.org/abs/1901.08746) - [code](https://github.com/dmis-lab/biobert) ⭐ 2,206 | 🐛 57 | 🌐 Python | 📅 2023-08-13 - A PubMed and PubMed Central-trained version of the [BERT language model](https://arxiv.org/abs/1810.04805).
 * [BlueBERT](https://github.com/ncbi-nlp/bluebert) ⭐ 599 | 🐛 6 | 🌐 Python | 📅 2023-03-25 - [paper](https://arxiv.org/abs/1906.05474) - A BERT model pre-trained on PubMed text and MIMIC-III notes.
 * ClinicalBERT - Two language models trained on clinical text have similar names. Both are BERT models trained on the text of clinical notes from the MIMIC-III dataset.
   * [Alsentzer et al Clinical BERT](https://github.com/EmilyAlsentzer/clinicalBERT) ⭐ 774 | 🐛 10 | 🌐 Python | 📅 2020-08-25 - [paper](https://www.aclweb.org/anthology/W19-1909/)
@@ -201,7 +201,7 @@ The field changes rapidly enough that tutorials any older than a few years are m
 
 ### GPT-2 models
 
-* [BioGPT](https://github.com/microsoft/BioGPT) ⭐ 4,488 | 🐛 75 | 🌐 Python | 📅 2024-07-25 - [paper](https://doi.org/10.1093/bib/bbac409) - A GPT-2 model pre-trained on 15 million PubMed abstracts, along with fine-tuned versions for several biomedical tasks.
+* [BioGPT](https://github.com/microsoft/BioGPT) ⭐ 4,490 | 🐛 75 | 🌐 Python | 📅 2024-07-25 - [paper](https://doi.org/10.1093/bib/bbac409) - A GPT-2 model pre-trained on 15 million PubMed abstracts, along with fine-tuned versions for several biomedical tasks.
 
 ### Other models
 
