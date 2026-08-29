@@ -10,12 +10,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official git repository for Biopython (originally converted from CVS)",
+            "homepage": "http://biopython.org/",
             "id": 151541,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-20T15:46:25Z",
+            "open_issues": 609,
             "owner": "biopython",
             "repo": "biopython",
-            "stars": 5176
+            "stars": 5177,
+            "topics": [
+              "bioinformatics",
+              "biopython",
+              "dna",
+              "genomics",
+              "phylogenetics",
+              "protein",
+              "protein-structure",
+              "python",
+              "sequence-alignment"
+            ]
           },
           "first_seen": "2026-08-28T20:10:31.776Z"
         },
@@ -26,12 +41,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A full spaCy pipeline and models for scientific/biomedical documents.",
+            "homepage": "https://allenai.github.io/scispacy/",
             "id": 150172473,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-04T07:49:16Z",
+            "open_issues": 56,
             "owner": "allenai",
             "repo": "scispacy",
-            "stars": 1988
+            "stars": 1988,
+            "topics": [
+              "bioinformatics",
+              "biomedical",
+              "custom-pipes",
+              "nlp",
+              "scientific-documents",
+              "spacy"
+            ]
           },
           "first_seen": "2026-08-28T20:10:31.776Z"
         },
@@ -42,12 +69,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":hospital: Medical Text Mining and Information Extraction with spaCy",
+            "homepage": null,
             "id": 150755179,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2022-11-01T20:05:09Z",
+            "open_issues": 23,
             "owner": "NLPatVCU",
             "repo": "medaCy",
-            "stars": 441
+            "stars": 441,
+            "topics": [
+              "clinical-text-processing",
+              "information-extraction",
+              "machine-learning",
+              "medical-natural-language-processing",
+              "medical-text-mining",
+              "metamap",
+              "natural-language-processing",
+              "spacy"
+            ]
           },
           "first_seen": "2026-08-28T20:10:31.776Z"
         },
@@ -58,12 +99,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 243384295,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2024-12-11T22:33:17Z",
+            "open_issues": 12,
             "owner": "kormilitzin",
             "repo": "med7",
-            "stars": 227
+            "stars": 227,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:31.776Z"
         },
@@ -74,12 +120,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "talk with NCBI entrez using R",
+            "homepage": "https://docs.ropensci.org/rentrez",
             "id": 3418841,
             "language": "R",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-20T18:36:27Z",
+            "open_issues": 54,
             "owner": "ropensci",
             "repo": "rentrez",
-            "stars": 220
+            "stars": 220,
+            "topics": [
+              "r",
+              "r-package",
+              "rstats"
+            ]
           },
           "first_seen": "2026-08-28T20:10:31.776Z"
         },
@@ -90,12 +145,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A smorgasbord architecture for coreference resolution in biomedical text",
+            "homepage": null,
             "id": 51609382,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2020-04-16T21:13:54Z",
+            "open_issues": 0,
             "owner": "kilicogluh",
             "repo": "Bio-SCoRes",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:31.776Z"
         },
@@ -108,12 +168,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MIMIC Code Repository: Code shared by the research community for the MIMIC family of databases",
+                "homepage": "https://mimic.mit.edu",
                 "id": 41767943,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-08-25T10:25:03Z",
+                "open_issues": 319,
                 "owner": "MIT-LCP",
                 "repo": "mimic-code",
-                "stars": 3357
+                "stars": 3358,
+                "topics": [
+                  "critical-care",
+                  "icu",
+                  "mimic-iii",
+                  "physionet"
+                ]
               },
               "first_seen": "2026-08-28T20:10:31.776Z"
             }
@@ -135,12 +205,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache cTAKES is a Natural Language Processing (NLP) platform for clinical text.",
+            "homepage": "https://ctakes.apache.org",
             "id": 572068762,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-12T20:22:16Z",
+            "open_issues": 10,
             "owner": "apache",
             "repo": "ctakes",
-            "stars": 135
+            "stars": 135,
+            "topics": [
+              "ai",
+              "bioinformatics",
+              "clinical",
+              "ctakes",
+              "ehr",
+              "emr",
+              "healthcare",
+              "medicine",
+              "ml",
+              "named-entity-recognition",
+              "nlp",
+              "temporal-information",
+              "uima",
+              "umls"
+            ]
           },
           "first_seen": "2026-08-28T20:10:31.776Z"
         },
@@ -151,12 +241,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Surfacing Semantic Data from Clinical Notes in Electronic Health Records for Tailored Care, Trial Recruitment and Clinical Research",
+            "homepage": null,
             "id": 70899474,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-13T16:09:25Z",
+            "open_issues": 3,
             "owner": "CogStack",
             "repo": "CogStack-SemEHR",
-            "stars": 90
+            "stars": 90,
+            "topics": [
+              "electronic-health-record",
+              "semantic-annotation",
+              "semantic-query",
+              "semantic-web",
+              "umls"
+            ]
           },
           "first_seen": "2026-08-28T20:10:31.776Z"
         },
@@ -167,12 +268,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A framework for keeping biomedical text mining result up-to-date",
+            "homepage": null,
             "id": 101930683,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-07-11T22:13:26Z",
+            "open_issues": 0,
             "owner": "jakelever",
             "repo": "pubrunner",
-            "stars": 43
+            "stars": 43,
+            "topics": [
+              "bionlp",
+              "infrastructure",
+              "pubmed",
+              "pubmed-central",
+              "python",
+              "snakemake",
+              "text-mining"
+            ]
           },
           "first_seen": "2026-08-28T20:10:31.776Z"
         },
@@ -183,12 +297,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Framework for information extraction from tables",
+            "homepage": null,
             "id": 55707065,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-04-15T10:10:55Z",
+            "open_issues": 0,
             "owner": "nikolamilosevic86",
             "repo": "TabInOut",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "information-extraction",
+              "literature",
+              "rule-based",
+              "rule-engine",
+              "rule-language",
+              "table-information-extraction",
+              "text-mining",
+              "wizard-steps"
+            ]
           },
           "first_seen": "2026-08-28T20:10:31.776Z"
         },
@@ -199,12 +327,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Public release of the DeepPhe analytic software",
+            "homepage": null,
             "id": 105557409,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-07-22T18:18:56Z",
+            "open_issues": 0,
             "owner": "DeepPhe",
             "repo": "DeepPhe-Release",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:31.776Z"
         },
@@ -215,12 +348,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast, daily-updated skill and CLI for arXiv, PubMed, PMC, and policy retrieval",
+            "homepage": "https://commons.ii.inc/",
             "id": 1249199315,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-08T12:43:56Z",
+            "open_issues": 1,
             "owner": "Intelligent-Internet",
             "repo": "II-Commons-Skills",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "arxiv",
+              "cli",
+              "daily-updated",
+              "ii-commons",
+              "pmc",
+              "policy",
+              "pubmed",
+              "research",
+              "retrieval",
+              "skill"
+            ]
           },
           "first_seen": "2026-08-28T20:10:31.776Z"
         },
@@ -233,12 +382,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "brat rapid annotation tool (brat) - for all your textual annotation needs",
+                "homepage": "http://brat.nlplab.org",
                 "id": 1301850,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-03T18:47:31Z",
+                "open_issues": 493,
                 "owner": "nlplab",
                 "repo": "brat",
-                "stars": 1879
+                "stars": 1879,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:31.776Z"
             },
@@ -249,12 +403,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Anafora is a web-based raw text annotation tool",
+                "homepage": null,
                 "id": 9301458,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-10-10T03:42:00Z",
+                "open_issues": 43,
                 "owner": "weitechen",
                 "repo": "anafora",
-                "stars": 242
+                "stars": 242,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:31.776Z"
             },
@@ -265,12 +424,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Serverless Text Annotation Tool for Corpus Development",
+                "homepage": "https://ohnlp.github.io/MedTator/",
                 "id": 395766206,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2025-02-19T19:40:49Z",
+                "open_issues": 8,
                 "owner": "OHNLP",
                 "repo": "MedTator",
-                "stars": 64
+                "stars": 64,
+                "topics": [
+                  "corpus-processing",
+                  "natural-language-processing",
+                  "nlp",
+                  "serverless",
+                  "text-annotation-tool"
+                ]
               },
               "first_seen": "2026-08-28T20:10:31.776Z"
             }
@@ -294,12 +464,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A BERT model for scientific text.",
+                "homepage": "https://arxiv.org/abs/1903.10676",
                 "id": 168397780,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-02-22T19:57:07Z",
+                "open_issues": 60,
                 "owner": "allenai",
                 "repo": "scibert",
-                "stars": 1715
+                "stars": 1715,
+                "topics": [
+                  "bert",
+                  "nlp",
+                  "scientific-papers"
+                ]
               },
               "first_seen": "2026-08-28T20:10:31.776Z"
             },
@@ -310,12 +489,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BioBERT: a pre-trained biomedical language representation model for biomedical text mining",
+                "homepage": null,
                 "id": 167883658,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-06-02T03:28:07Z",
+                "open_issues": 7,
                 "owner": "naver",
                 "repo": "biobert-pretrained",
-                "stars": 707
+                "stars": 707,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:31.776Z"
             },
@@ -326,12 +510,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BlueBERT, pre-trained on PubMed abstracts and clinical notes (MIMIC-III). ",
+                "homepage": "https://arxiv.org/abs/1906.05474",
                 "id": 190591634,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-03-25T01:21:44Z",
+                "open_issues": 6,
                 "owner": "ncbi-nlp",
                 "repo": "bluebert",
-                "stars": 599
+                "stars": 599,
+                "topics": [
+                  "bert",
+                  "bert-model",
+                  "language-model",
+                  "mimic-iii",
+                  "natural-language-processing",
+                  "pubmed",
+                  "pubmed-abstracts"
+                ]
               },
               "first_seen": "2026-08-28T20:10:31.776Z"
             },
@@ -347,12 +544,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "repository for Publicly Available Clinical BERT Embeddings ",
+                    "homepage": null,
                     "id": 179753075,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2020-08-25T14:11:44Z",
+                    "open_issues": 10,
                     "owner": "EmilyAlsentzer",
                     "repo": "clinicalBERT",
-                    "stars": 774
+                    "stars": 774,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:31.776Z"
                 },
@@ -363,12 +565,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ClinicalBERT: Modeling Clinical Notes and Predicting Hospital Readmission (CHIL 2020 Workshop)",
+                    "homepage": "https://arxiv.org/abs/1904.05342",
                     "id": 178530206,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2022-10-17T11:19:35Z",
+                    "open_issues": 7,
                     "owner": "kexinhuang12345",
                     "repo": "clinicalBERT",
-                    "stars": 449
+                    "stars": 449,
+                    "topics": [
+                      "clinicalbert",
+                      "hospital-readmission",
+                      "prediction"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:31.776Z"
                 }
@@ -388,12 +599,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 524871042,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-25T10:33:53Z",
+                "open_issues": 75,
                 "owner": "microsoft",
                 "repo": "BioGPT",
-                "stars": 4488
+                "stars": 4488,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:31.776Z"
             }
@@ -411,12 +627,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A very simple framework for state-of-the-art Natural Language Processing (NLP)",
+                "homepage": "https://flairnlp.github.io/flair/",
                 "id": 136914524,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-10-27T18:11:31Z",
+                "open_issues": 31,
                 "owner": "flairNLP",
                 "repo": "flair",
-                "stars": 14384
+                "stars": 14384,
+                "topics": [
+                  "machine-learning",
+                  "named-entity-recognition",
+                  "natural-language-processing",
+                  "nlp",
+                  "pytorch",
+                  "semantic-role-labeling",
+                  "sequence-labeling",
+                  "word-embeddings"
+                ]
               },
               "first_seen": "2026-08-28T20:10:31.776Z"
             }
@@ -434,12 +664,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 172099021,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-11-30T23:28:01Z",
+                "open_issues": 2,
                 "owner": "ncbi-nlp",
                 "repo": "BioWordVec",
-                "stars": 154
+                "stars": 154,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:31.776Z"
             }
@@ -463,12 +698,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get started with CORD-19",
+                "homepage": null,
                 "id": 259176573,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2025-05-14T00:02:58Z",
+                "open_issues": 2,
                 "owner": "allenai",
                 "repo": "cord19",
-                "stars": 188
+                "stars": 188,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:31.776Z"
             }
@@ -486,12 +726,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 131652081,
                 "language": "Clojure",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-12T15:26:51Z",
+                "open_issues": 0,
                 "owner": "lhunter-lab",
                 "repo": "CRAFT",
-                "stars": 82
+                "stars": 82,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:31.776Z"
             }
@@ -513,12 +758,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Definition and DDLs for the OMOP Common Data Model (CDM)",
+            "homepage": "https://ohdsi.github.io/CommonDataModel",
             "id": 25224860,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-08-25T17:22:48Z",
+            "open_issues": 78,
             "owner": "OHDSI",
             "repo": "CommonDataModel",
-            "stars": 1077
+            "stars": 1077,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:31.776Z"
         },
@@ -529,12 +779,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Schema and generated objects for biolink data model and upper ontology",
+            "homepage": "https://biolink.github.io/biolink-model/",
             "id": 112995625,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T19:34:31Z",
+            "open_issues": 191,
             "owner": "biolink",
             "repo": "biolink-model",
-            "stars": 260
+            "stars": 260,
+            "topics": [
+              "ai4curation",
+              "biolink",
+              "datamodel",
+              "gene-ontology",
+              "json-api",
+              "knowledge-graphs",
+              "linkml",
+              "monarchinitiative",
+              "ncats",
+              "ncats-translator",
+              "neo4j",
+              "obofoundry",
+              "owl",
+              "rdf",
+              "specification",
+              "standard",
+              "yaml"
+            ]
           },
           "first_seen": "2026-08-28T20:10:31.776Z"
         },
@@ -545,12 +818,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vendor-agnostic, FHIR-Genomics-aligned API contract for cross-vendor NGS interpretation. JSON Schema + TypeScript + Python pydantic.",
+            "homepage": null,
             "id": 1229972731,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-09T04:47:14Z",
+            "open_issues": 0,
             "owner": "unmirihealth",
             "repo": "unmiri-ngs-fhir-schema",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:31.776Z"
         }
@@ -559,15 +837,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:10:31.776Z",
+    "last_updated": "2026-08-29T04:44:59.333Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🧫 A curated list of resources relevant to doing Biomedical Information Extraction (including BioNLP)",
+      "homepage": null,
       "id": 203651338,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-05-26T15:54:20Z",
+      "open_issues": 8,
       "owner": "caufieldjh",
       "repo": "awesome-bioie",
-      "stars": 465
+      "stars": 465,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "bioinformatics",
+        "biomedical",
+        "biomedical-data",
+        "biomedical-language",
+        "information-extraction",
+        "medical-informatics",
+        "natural-language-processing",
+        "nlp",
+        "text-mining"
+      ]
     },
     "original_repository_sha": "2689dd4118e0cb9be19a164bbf5165188f010d70",
     "enhanced_repository": "enhansome/enhansome-bioie",
