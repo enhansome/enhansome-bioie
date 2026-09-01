@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-08-31T10:51:48Z",
-            "open_issues": 607,
+            "open_issues": 609,
             "owner": "biopython",
             "repo": "biopython",
-            "stars": 5181,
+            "stars": 5183,
             "topics": [
               "bioinformatics",
               "biopython",
@@ -173,11 +173,11 @@
                 "id": 41767943,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-08-31T15:52:15Z",
-                "open_issues": 319,
+                "last_commit": "2026-09-01T13:06:26Z",
+                "open_issues": 318,
                 "owner": "MIT-LCP",
                 "repo": "mimic-code",
-                "stars": 3359,
+                "stars": 3358,
                 "topics": [
                   "critical-care",
                   "icu",
@@ -473,7 +473,7 @@
                 "open_issues": 60,
                 "owner": "allenai",
                 "repo": "scibert",
-                "stars": 1715,
+                "stars": 1717,
                 "topics": [
                   "bert",
                   "nlp",
@@ -574,7 +574,7 @@
                     "open_issues": 7,
                     "owner": "kexinhuang12345",
                     "repo": "clinicalBERT",
-                    "stars": 449,
+                    "stars": 450,
                     "topics": [
                       "clinicalbert",
                       "hospital-readmission",
@@ -731,7 +731,7 @@
                 "id": 131652081,
                 "language": "Clojure",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-12T15:26:51Z",
+                "last_commit": "2026-08-31T21:18:59Z",
                 "open_issues": 0,
                 "owner": "lhunter-lab",
                 "repo": "CRAFT",
@@ -788,7 +788,7 @@
             "open_issues": 191,
             "owner": "biolink",
             "repo": "biolink-model",
-            "stars": 260,
+            "stars": 261,
             "topics": [
               "ai4curation",
               "biolink",
@@ -837,7 +837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T16:07:20.500Z",
+    "last_updated": "2026-09-01T13:27:41.322Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧫 A curated list of resources relevant to doing Biomedical Information Extraction (including BioNLP)",
