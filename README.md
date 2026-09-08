@@ -18,7 +18,7 @@ BioIE has undergone massive changes since the introduction of language models li
 
 Resources included here are preferentially those available at no monetary cost and limited license requirements. Methods and datasets should be publicly accessible and actively maintained.
 
-See also [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 18,970 | 🐛 17 | 📅 2026-09-07, [awesome-biology](https://github.com/raivivek/awesome-biology) ⭐ 455 | 🐛 5 | 📅 2026-05-17 and [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) ⭐ 4,269 | 🐛 37 | 📅 2026-04-07.
+See also [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 18,972 | 🐛 17 | 📅 2026-09-07, [awesome-biology](https://github.com/raivivek/awesome-biology) ⭐ 455 | 🐛 5 | 📅 2026-05-17 and [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) ⭐ 4,271 | 🐛 37 | 📅 2026-04-07.
 
 *Please read the [contribution guidelines](contributing.md) before contributing. Please add your favourite resource by raising a [pull request](https://github.com/caufieldjh/awesome-bioie/pulls) ⭐ 466 | 🐛 8 | 📅 2026-05-26.*
 
@@ -149,8 +149,8 @@ The field changes rapidly enough that tutorials any older than a few years are m
 
 ## Code Libraries
 
-* [Biopython](https://biopython.org/) - [paper](http://dx.doi.org/10.1093/bioinformatics/btp163) - [code](https://github.com/biopython/biopython) ⭐ 5,190 | 🐛 608 | 🌐 Python | 📅 2026-09-04 - Python tools primarily intended for bioinformatics and computational molecular biology purposes, but also a convenient way to obtain data, including documents/abstracts from PubMed (see Chapter 9 of the documentation).
-* [ScispaCy](https://github.com/allenai/SciSpaCy) ⭐ 1,990 | 🐛 56 | 🌐 Python | 📅 2025-12-04 - [paper](https://arxiv.org/abs/1902.07669) - A version of the [spaCy](https://spacy.io/) framework for scientific and biomedical documents.
+* [Biopython](https://biopython.org/) - [paper](http://dx.doi.org/10.1093/bioinformatics/btp163) - [code](https://github.com/biopython/biopython) ⭐ 5,191 | 🐛 609 | 🌐 Python | 📅 2026-09-04 - Python tools primarily intended for bioinformatics and computational molecular biology purposes, but also a convenient way to obtain data, including documents/abstracts from PubMed (see Chapter 9 of the documentation).
+* [ScispaCy](https://github.com/allenai/SciSpaCy) ⭐ 1,989 | 🐛 56 | 🌐 Python | 📅 2025-12-04 - [paper](https://arxiv.org/abs/1902.07669) - A version of the [spaCy](https://spacy.io/) framework for scientific and biomedical documents.
 * [medaCy](https://github.com/NLPatVCU/medaCy) ⭐ 442 | 🐛 23 | 🌐 Python | 📅 2022-11-01 - A system for building predictive medical natural language processing models. Built on the [spaCy](https://spacy.io/) framework.
 * [Med7](https://medium.com/@kormilitzin/med7-clinical-information-extraction-system-in-python-and-spacy-5e6f68ab1c68) - [paper](https://arxiv.org/abs/2003.01271) - [code](https://github.com/kormilitzin/med7) ⭐ 227 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2024-12-11 - a Python package and model (for use with spaCy) for doing NER with medication-related concepts.
 * [rentrez](https://github.com/ropensci/rentrez) ⭐ 221 | 🐛 54 | 🌐 R | 📅 2026-07-20 - R utilities for accessing NCBI resources, including PubMed.
@@ -158,7 +158,7 @@ The field changes rapidly enough that tutorials any older than a few years are m
 
 ### Repos for Specific Datasets
 
-* [mimic-code](https://github.com/MIT-LCP/mimic-code) ⭐ 3,362 | 🐛 319 | 🌐 Jupyter Notebook | 📅 2026-09-01 - Code associated with the MIMIC-III dataset (see below). Includes some helpful [tutorials](https://github.com/MIT-LCP/mimic-code/tree/master/tutorials) ⭐ 3,362 | 🐛 319 | 🌐 Jupyter Notebook | 📅 2026-09-01.
+* [mimic-code](https://github.com/MIT-LCP/mimic-code) ⭐ 3,364 | 🐛 319 | 🌐 Jupyter Notebook | 📅 2026-09-01 - Code associated with the MIMIC-III dataset (see below). Includes some helpful [tutorials](https://github.com/MIT-LCP/mimic-code/tree/master/tutorials) ⭐ 3,364 | 🐛 319 | 🌐 Jupyter Notebook | 📅 2026-09-01.
 
 [Back to Top](#contents)
 
@@ -195,13 +195,13 @@ The field changes rapidly enough that tutorials any older than a few years are m
 * [BioBERT](https://github.com/naver/biobert-pretrained) ⭐ 708 | 🐛 7 | 📅 2020-06-02 - [paper](https://arxiv.org/abs/1901.08746) - [code](https://github.com/dmis-lab/biobert) ⭐ 2,206 | 🐛 57 | 🌐 Python | 📅 2023-08-13 - A PubMed and PubMed Central-trained version of the [BERT language model](https://arxiv.org/abs/1810.04805).
 * [BlueBERT](https://github.com/ncbi-nlp/bluebert) ⭐ 599 | 🐛 6 | 🌐 Python | 📅 2023-03-25 - [paper](https://arxiv.org/abs/1906.05474) - A BERT model pre-trained on PubMed text and MIMIC-III notes.
 * ClinicalBERT - Two language models trained on clinical text have similar names. Both are BERT models trained on the text of clinical notes from the MIMIC-III dataset.
-  * [Alsentzer et al Clinical BERT](https://github.com/EmilyAlsentzer/clinicalBERT) ⭐ 774 | 🐛 10 | 🌐 Python | 📅 2020-08-25 - [paper](https://www.aclweb.org/anthology/W19-1909/)
+  * [Alsentzer et al Clinical BERT](https://github.com/EmilyAlsentzer/clinicalBERT) ⭐ 775 | 🐛 10 | 🌐 Python | 📅 2020-08-25 - [paper](https://www.aclweb.org/anthology/W19-1909/)
   * [Huang et al ClinicalBERT](https://github.com/kexinhuang12345/clinicalBERT) ⭐ 450 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2022-10-17 - [paper](https://arxiv.org/abs/1904.05342)
 * [PubMedBERT](https://microsoft.github.io/BLURB/models.html) - [paper](https://arxiv.org/abs/2007.15779) - A BERT model trained from scratch on PubMed, with versions trained on abstracts+full texts and on abstracts alone.
 
 ### GPT-2 models
 
-* [BioGPT](https://github.com/microsoft/BioGPT) ⭐ 4,493 | 🐛 75 | 🌐 Python | 📅 2024-07-25 - [paper](https://doi.org/10.1093/bib/bbac409) - A GPT-2 model pre-trained on 15 million PubMed abstracts, along with fine-tuned versions for several biomedical tasks.
+* [BioGPT](https://github.com/microsoft/BioGPT) ⭐ 4,492 | 🐛 75 | 🌐 Python | 📅 2024-07-25 - [paper](https://doi.org/10.1093/bib/bbac409) - A GPT-2 model pre-trained on 15 million PubMed abstracts, along with fine-tuned versions for several biomedical tasks.
 
 ### Other models
 
@@ -300,4 +300,4 @@ Do you need a [data model](https://en.wikipedia.org/wiki/Data_model)? If you are
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
