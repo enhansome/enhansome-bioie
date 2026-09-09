@@ -16,7 +16,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-04T00:07:06Z",
-            "open_issues": 609,
+            "open_issues": 610,
             "owner": "biopython",
             "repo": "biopython",
             "stars": 5191,
@@ -177,7 +177,7 @@
                 "open_issues": 319,
                 "owner": "MIT-LCP",
                 "repo": "mimic-code",
-                "stars": 3364,
+                "stars": 3367,
                 "topics": [
                   "critical-care",
                   "icu",
@@ -784,7 +784,7 @@
             "id": 112995625,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-06T06:43:24Z",
+            "last_commit": "2026-09-08T22:20:38Z",
             "open_issues": 190,
             "owner": "biolink",
             "repo": "biolink-model",
@@ -837,7 +837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T12:50:12.511Z",
+    "last_updated": "2026-09-09T12:55:58.671Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧫 A curated list of resources relevant to doing Biomedical Information Extraction (including BioNLP)",
