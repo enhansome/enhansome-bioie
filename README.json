@@ -19,7 +19,7 @@
             "open_issues": 613,
             "owner": "biopython",
             "repo": "biopython",
-            "stars": 5196,
+            "stars": 5197,
             "topics": [
               "bioinformatics",
               "biopython",
@@ -598,7 +598,7 @@
               "description": "paper - A GPT-2 model pre-trained on 15 million PubMed abstracts, along with fine-tuned versions for several biomedical tasks.",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": null,
                 "homepage": null,
                 "id": 524871042,
@@ -767,7 +767,7 @@
             "open_issues": 79,
             "owner": "OHDSI",
             "repo": "CommonDataModel",
-            "stars": 1081,
+            "stars": 1082,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:31.776Z"
@@ -837,7 +837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T13:26:55.248Z",
+    "last_updated": "2026-09-17T13:22:49.659Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧫 A curated list of resources relevant to doing Biomedical Information Extraction (including BioNLP)",
