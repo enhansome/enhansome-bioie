@@ -15,8 +15,8 @@
             "id": 151541,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-16T08:09:10Z",
-            "open_issues": 616,
+            "last_commit": "2026-09-21T14:16:51Z",
+            "open_issues": 614,
             "owner": "biopython",
             "repo": "biopython",
             "stars": 5200,
@@ -125,7 +125,7 @@
             "id": 3418841,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-20T08:16:12Z",
+            "last_commit": "2026-09-21T14:56:47Z",
             "open_issues": 63,
             "owner": "ropensci",
             "repo": "rentrez",
@@ -177,7 +177,7 @@
                 "open_issues": 319,
                 "owner": "MIT-LCP",
                 "repo": "mimic-code",
-                "stars": 3377,
+                "stars": 3378,
                 "topics": [
                   "critical-care",
                   "icu",
@@ -357,7 +357,7 @@
             "open_issues": 1,
             "owner": "Intelligent-Internet",
             "repo": "II-Commons-Skills",
-            "stars": 15,
+            "stars": 16,
             "topics": [
               "arxiv",
               "cli",
@@ -636,7 +636,7 @@
                 "open_issues": 31,
                 "owner": "flairNLP",
                 "repo": "flair",
-                "stars": 14388,
+                "stars": 14389,
                 "topics": [
                   "machine-learning",
                   "named-entity-recognition",
@@ -764,10 +764,10 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2026-08-25T17:22:48Z",
-            "open_issues": 79,
+            "open_issues": 80,
             "owner": "OHDSI",
             "repo": "CommonDataModel",
-            "stars": 1082,
+            "stars": 1083,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:31.776Z"
@@ -788,7 +788,7 @@
             "open_issues": 188,
             "owner": "biolink",
             "repo": "biolink-model",
-            "stars": 262,
+            "stars": 263,
             "topics": [
               "ai4curation",
               "biolink",
@@ -837,7 +837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T13:01:10.410Z",
+    "last_updated": "2026-09-21T15:03:30.413Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧫 A curated list of resources relevant to doing Biomedical Information Extraction (including BioNLP)",
