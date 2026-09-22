@@ -16,7 +16,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-21T14:16:51Z",
-            "open_issues": 614,
+            "open_issues": 613,
             "owner": "biopython",
             "repo": "biopython",
             "stars": 5200,
@@ -50,7 +50,7 @@
             "open_issues": 57,
             "owner": "allenai",
             "repo": "scispacy",
-            "stars": 1993,
+            "stars": 1994,
             "topics": [
               "bioinformatics",
               "biomedical",
@@ -125,8 +125,8 @@
             "id": 3418841,
             "language": "R",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-21T14:56:47Z",
-            "open_issues": 63,
+            "last_commit": "2026-09-21T16:50:51Z",
+            "open_issues": 64,
             "owner": "ropensci",
             "repo": "rentrez",
             "stars": 221,
@@ -177,7 +177,7 @@
                 "open_issues": 319,
                 "owner": "MIT-LCP",
                 "repo": "mimic-code",
-                "stars": 3378,
+                "stars": 3379,
                 "topics": [
                   "critical-care",
                   "icu",
@@ -574,7 +574,7 @@
                     "open_issues": 7,
                     "owner": "kexinhuang12345",
                     "repo": "clinicalBERT",
-                    "stars": 451,
+                    "stars": 452,
                     "topics": [
                       "clinicalbert",
                       "hospital-readmission",
@@ -837,7 +837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T15:03:30.413Z",
+    "last_updated": "2026-09-22T13:21:40.853Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧫 A curated list of resources relevant to doing Biomedical Information Extraction (including BioNLP)",
@@ -849,7 +849,7 @@
       "open_issues": 9,
       "owner": "caufieldjh",
       "repo": "awesome-bioie",
-      "stars": 466,
+      "stars": 467,
       "topics": [
         "awesome",
         "awesome-list",
