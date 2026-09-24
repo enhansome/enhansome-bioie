@@ -19,7 +19,7 @@
             "open_issues": 613,
             "owner": "biopython",
             "repo": "biopython",
-            "stars": 5204,
+            "stars": 5205,
             "topics": [
               "bioinformatics",
               "biopython",
@@ -47,7 +47,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2025-12-04T07:49:16Z",
-            "open_issues": 57,
+            "open_issues": 58,
             "owner": "allenai",
             "repo": "scispacy",
             "stars": 1995,
@@ -174,7 +174,7 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-09-01T13:06:26Z",
-                "open_issues": 319,
+                "open_issues": 320,
                 "owner": "MIT-LCP",
                 "repo": "mimic-code",
                 "stars": 3380,
@@ -837,7 +837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T13:35:20.570Z",
+    "last_updated": "2026-09-24T13:30:26.881Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧫 A curated list of resources relevant to doing Biomedical Information Extraction (including BioNLP)",
