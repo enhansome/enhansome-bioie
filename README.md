@@ -18,7 +18,7 @@ BioIE has undergone massive changes since the introduction of language models li
 
 Resources included here are preferentially those available at no monetary cost and limited license requirements. Methods and datasets should be publicly accessible and actively maintained.
 
-See also [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 19,030 | 🐛 20 | 📅 2026-09-07, [awesome-biology](https://github.com/raivivek/awesome-biology) ⭐ 458 | 🐛 4 | 📅 2026-05-17 and [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) ⭐ 4,300 | 🐛 43 | 📅 2026-04-07.
+See also [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 19,034 | 🐛 22 | 📅 2026-09-07, [awesome-biology](https://github.com/raivivek/awesome-biology) ⭐ 458 | 🐛 4 | 📅 2026-05-17 and [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) ⭐ 4,302 | 🐛 43 | 📅 2026-04-07.
 
 *Please read the [contribution guidelines](contributing.md) before contributing. Please add your favourite resource by raising a [pull request](https://github.com/caufieldjh/awesome-bioie/pulls) ⭐ 467 | 🐛 9 | 📅 2026-05-26.*
 
@@ -149,11 +149,11 @@ The field changes rapidly enough that tutorials any older than a few years are m
 
 ## Code Libraries
 
-* [Biopython](https://biopython.org/) - [paper](http://dx.doi.org/10.1093/bioinformatics/btp163) - [code](https://github.com/biopython/biopython) ⭐ 5,205 | 🐛 613 | 🌐 Python | 📅 2026-09-22 - Python tools primarily intended for bioinformatics and computational molecular biology purposes, but also a convenient way to obtain data, including documents/abstracts from PubMed (see Chapter 9 of the documentation).
+* [Biopython](https://biopython.org/) - [paper](http://dx.doi.org/10.1093/bioinformatics/btp163) - [code](https://github.com/biopython/biopython) ⭐ 5,208 | 🐛 613 | 🌐 Python | 📅 2026-09-22 - Python tools primarily intended for bioinformatics and computational molecular biology purposes, but also a convenient way to obtain data, including documents/abstracts from PubMed (see Chapter 9 of the documentation).
 * [ScispaCy](https://github.com/allenai/SciSpaCy) ⭐ 1,995 | 🐛 58 | 🌐 Python | 📅 2025-12-04 - [paper](https://arxiv.org/abs/1902.07669) - A version of the [spaCy](https://spacy.io/) framework for scientific and biomedical documents.
 * [medaCy](https://github.com/NLPatVCU/medaCy) ⭐ 442 | 🐛 23 | 🌐 Python | 📅 2022-11-01 - A system for building predictive medical natural language processing models. Built on the [spaCy](https://spacy.io/) framework.
 * [Med7](https://medium.com/@kormilitzin/med7-clinical-information-extraction-system-in-python-and-spacy-5e6f68ab1c68) - [paper](https://arxiv.org/abs/2003.01271) - [code](https://github.com/kormilitzin/med7) ⭐ 227 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2024-12-11 - a Python package and model (for use with spaCy) for doing NER with medication-related concepts.
-* [rentrez](https://github.com/ropensci/rentrez) ⭐ 221 | 🐛 59 | 🌐 R | 📅 2026-09-22 - R utilities for accessing NCBI resources, including PubMed.
+* [rentrez](https://github.com/ropensci/rentrez) ⭐ 221 | 🐛 61 | 🌐 R | 📅 2026-09-25 - R utilities for accessing NCBI resources, including PubMed.
 * [Bio-SCoRes](https://github.com/kilicogluh/Bio-SCoRes) ⭐ 10 | 🐛 0 | 🌐 Java | 📅 2020-04-16 - [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0148538) - A framework for biomedical coreference resolution.
 
 ### Repos for Specific Datasets
@@ -269,7 +269,7 @@ Protein-protein interactions are abbreviated as PPI. The following sets are avai
 
 ## Ontologies and Controlled Vocabularies
 
-* [Disease Ontology](http://www.disease-ontology.org/) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4383880/) - An ontology of human diseases. Has cross-links to MeSH, ICD, NCI Thesaurus, SNOMED, and OMIM. Public domain. Available on [GitHub](https://github.com/DiseaseOntology/HumanDiseaseOntology) ⭐ 415 | 🐛 83 | 🌐 Makefile | 📅 2026-09-23 and on the [OBO Foundry](http://www.obofoundry.org/ontology/doid.html).
+* [Disease Ontology](http://www.disease-ontology.org/) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4383880/) - An ontology of human diseases. Has cross-links to MeSH, ICD, NCI Thesaurus, SNOMED, and OMIM. Public domain. Available on [GitHub](https://github.com/DiseaseOntology/HumanDiseaseOntology) ⭐ 416 | 🐛 83 | 🌐 Makefile | 📅 2026-09-23 and on the [OBO Foundry](http://www.obofoundry.org/ontology/doid.html).
 * [RxNorm](https://www.nlm.nih.gov/research/umls/rxnorm/index.html) - [paper](https://academic.oup.com/jamia/article/18/4/441/734170) - Normalized names for clinical drugs and drug packs, with combined ingredients, strengths, and form, and assigned types from the Semantic Network (see below). Released monthly.
 * [SPECIALIST Lexicon](https://lexsrv3.nlm.nih.gov/Specialist/Summary/lexicon.html) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2247735/) - A general English lexicon that includes many biomedical terms. Updated yearly since 1994 and still updated as of 2019. Part of UMLS but does not require UTS account to download.
 * [UMLS Metathesaurus](https://www.nlm.nih.gov/research/umls/knowledge_sources/metathesaurus/index.html) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC308795/) - Mappings between >3.8 million concepts, 14 million concept names, and >200 sources of biomedical vocabulary and identifiers. It's big. It may help to prepare a subset of the Metathesaurus with the [MetamorphoSys installation tool](https://www.nlm.nih.gov/research/umls/implementation_resources/metamorphosys/help.html) but we're still talking about \~30 Gb of disk space required for the 2019 release. [See the manual here](https://www.ncbi.nlm.nih.gov/books/NBK9684/). Requires UTS account.
@@ -300,4 +300,4 @@ Do you need a [data model](https://en.wikipedia.org/wiki/Data_model)? If you are
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
