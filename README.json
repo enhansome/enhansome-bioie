@@ -19,7 +19,7 @@
             "open_issues": 613,
             "owner": "biopython",
             "repo": "biopython",
-            "stars": 5208,
+            "stars": 5209,
             "topics": [
               "bioinformatics",
               "biopython",
@@ -636,7 +636,7 @@
                 "open_issues": 31,
                 "owner": "flairNLP",
                 "repo": "flair",
-                "stars": 14389,
+                "stars": 14390,
                 "topics": [
                   "machine-learning",
                   "named-entity-recognition",
@@ -767,7 +767,7 @@
             "open_issues": 80,
             "owner": "OHDSI",
             "repo": "CommonDataModel",
-            "stars": 1085,
+            "stars": 1086,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:31.776Z"
@@ -837,7 +837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T13:39:55.350Z",
+    "last_updated": "2026-09-26T13:00:00.542Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧫 A curated list of resources relevant to doing Biomedical Information Extraction (including BioNLP)",
