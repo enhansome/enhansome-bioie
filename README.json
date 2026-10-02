@@ -15,11 +15,11 @@
             "id": 151541,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T02:44:59Z",
+            "last_commit": "2026-10-02T09:39:30Z",
             "open_issues": 627,
             "owner": "biopython",
             "repo": "biopython",
-            "stars": 5217,
+            "stars": 5218,
             "topics": [
               "bioinformatics",
               "biopython",
@@ -50,7 +50,7 @@
             "open_issues": 58,
             "owner": "allenai",
             "repo": "scispacy",
-            "stars": 1994,
+            "stars": 1995,
             "topics": [
               "bioinformatics",
               "biomedical",
@@ -177,7 +177,7 @@
                 "open_issues": 323,
                 "owner": "MIT-LCP",
                 "repo": "mimic-code",
-                "stars": 3391,
+                "stars": 3393,
                 "topics": [
                   "critical-care",
                   "icu",
@@ -214,7 +214,7 @@
             "open_issues": 10,
             "owner": "apache",
             "repo": "ctakes",
-            "stars": 138,
+            "stars": 137,
             "topics": [
               "ai",
               "bioinformatics",
@@ -608,7 +608,7 @@
                 "open_issues": 75,
                 "owner": "microsoft",
                 "repo": "BioGPT",
-                "stars": 4487,
+                "stars": 4486,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:31.776Z"
@@ -633,10 +633,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2025-10-27T18:11:31Z",
-                "open_issues": 32,
+                "open_issues": 33,
                 "owner": "flairNLP",
                 "repo": "flair",
-                "stars": 14391,
+                "stars": 14390,
                 "topics": [
                   "machine-learning",
                   "named-entity-recognition",
@@ -731,7 +731,7 @@
                 "id": 131652081,
                 "language": "Clojure",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-28T15:41:45Z",
+                "last_commit": "2026-10-01T23:15:06Z",
                 "open_issues": 0,
                 "owner": "lhunter-lab",
                 "repo": "CRAFT",
@@ -837,7 +837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T15:23:44.536Z",
+    "last_updated": "2026-10-02T14:41:47.583Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧫 A curated list of resources relevant to doing Biomedical Information Extraction (including BioNLP)",

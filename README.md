@@ -18,7 +18,7 @@ BioIE has undergone massive changes since the introduction of language models li
 
 Resources included here are preferentially those available at no monetary cost and limited license requirements. Methods and datasets should be publicly accessible and actively maintained.
 
-See also [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 19,045 | 🐛 24 | 📅 2026-09-07, [awesome-biology](https://github.com/raivivek/awesome-biology) ⭐ 459 | 🐛 4 | 📅 2026-05-17 and [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) ⭐ 4,305 | 🐛 43 | 📅 2026-09-27.
+See also [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 19,047 | 🐛 26 | 📅 2026-09-07, [awesome-biology](https://github.com/raivivek/awesome-biology) ⭐ 459 | 🐛 4 | 📅 2026-05-17 and [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) ⭐ 4,307 | 🐛 44 | 📅 2026-09-27.
 
 *Please read the [contribution guidelines](contributing.md) before contributing. Please add your favourite resource by raising a [pull request](https://github.com/caufieldjh/awesome-bioie/pulls) ⭐ 467 | 🐛 9 | 📅 2026-05-26.*
 
@@ -149,8 +149,8 @@ The field changes rapidly enough that tutorials any older than a few years are m
 
 ## Code Libraries
 
-* [Biopython](https://biopython.org/) - [paper](http://dx.doi.org/10.1093/bioinformatics/btp163) - [code](https://github.com/biopython/biopython) ⭐ 5,217 | 🐛 627 | 🌐 Python | 📅 2026-10-01 - Python tools primarily intended for bioinformatics and computational molecular biology purposes, but also a convenient way to obtain data, including documents/abstracts from PubMed (see Chapter 9 of the documentation).
-* [ScispaCy](https://github.com/allenai/SciSpaCy) ⭐ 1,994 | 🐛 58 | 🌐 Python | 📅 2025-12-04 - [paper](https://arxiv.org/abs/1902.07669) - A version of the [spaCy](https://spacy.io/) framework for scientific and biomedical documents.
+* [Biopython](https://biopython.org/) - [paper](http://dx.doi.org/10.1093/bioinformatics/btp163) - [code](https://github.com/biopython/biopython) ⭐ 5,218 | 🐛 627 | 🌐 Python | 📅 2026-10-02 - Python tools primarily intended for bioinformatics and computational molecular biology purposes, but also a convenient way to obtain data, including documents/abstracts from PubMed (see Chapter 9 of the documentation).
+* [ScispaCy](https://github.com/allenai/SciSpaCy) ⭐ 1,995 | 🐛 58 | 🌐 Python | 📅 2025-12-04 - [paper](https://arxiv.org/abs/1902.07669) - A version of the [spaCy](https://spacy.io/) framework for scientific and biomedical documents.
 * [medaCy](https://github.com/NLPatVCU/medaCy) ⭐ 442 | 🐛 23 | 🌐 Python | 📅 2022-11-01 - A system for building predictive medical natural language processing models. Built on the [spaCy](https://spacy.io/) framework.
 * [Med7](https://medium.com/@kormilitzin/med7-clinical-information-extraction-system-in-python-and-spacy-5e6f68ab1c68) - [paper](https://arxiv.org/abs/2003.01271) - [code](https://github.com/kormilitzin/med7) ⭐ 227 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2024-12-11 - a Python package and model (for use with spaCy) for doing NER with medication-related concepts.
 * [rentrez](https://github.com/ropensci/rentrez) ⭐ 221 | 🐛 61 | 🌐 R | 📅 2026-09-25 - R utilities for accessing NCBI resources, including PubMed.
@@ -158,13 +158,13 @@ The field changes rapidly enough that tutorials any older than a few years are m
 
 ### Repos for Specific Datasets
 
-* [mimic-code](https://github.com/MIT-LCP/mimic-code) ⭐ 3,391 | 🐛 323 | 🌐 Jupyter Notebook | 📅 2026-09-01 - Code associated with the MIMIC-III dataset (see below). Includes some helpful [tutorials](https://github.com/MIT-LCP/mimic-code/tree/master/tutorials) ⭐ 3,391 | 🐛 323 | 🌐 Jupyter Notebook | 📅 2026-09-01.
+* [mimic-code](https://github.com/MIT-LCP/mimic-code) ⭐ 3,393 | 🐛 323 | 🌐 Jupyter Notebook | 📅 2026-09-01 - Code associated with the MIMIC-III dataset (see below). Includes some helpful [tutorials](https://github.com/MIT-LCP/mimic-code/tree/master/tutorials) ⭐ 3,393 | 🐛 323 | 🌐 Jupyter Notebook | 📅 2026-09-01.
 
 [Back to Top](#contents)
 
 ## Tools, Platforms, and Services
 
-* [cTAKES](https://ctakes.apache.org/) - [paper](https://academic.oup.com/jamia/article/17/5/507/830823) - [code](https://github.com/apache/ctakes) ⭐ 138 | 🐛 10 | 🌐 Java | 📅 2026-08-12 - A system for processing the text in electronic medical records. Widely used and open source.
+* [cTAKES](https://ctakes.apache.org/) - [paper](https://academic.oup.com/jamia/article/17/5/507/830823) - [code](https://github.com/apache/ctakes) ⭐ 137 | 🐛 10 | 🌐 Java | 📅 2026-08-12 - A system for processing the text in electronic medical records. Widely used and open source.
 * [SemEHR](https://github.com/CogStack/CogStack-SemEHR) ⚠️ Archived - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6019046/) - an IE infrastructure for electronic health records (EHR). Built on the [CogStack project](https://github.com/CogStack).
 * [Pubrunner](https://github.com/jakelever/pubrunner) ⭐ 43 | 🐛 0 | 🌐 Python | 📅 2020-07-11 - A framework for running text mining tools on the newest set(s) of documents from PubMed.
 * [TabInOut](https://github.com/nikolamilosevic86/TabInOut) ⭐ 42 | 🐛 0 | 🌐 Python | 📅 2019-04-15 - [paper](https://link.springer.com/article/10.1007/s10032-019-00317-0) - a framework for IE from tables in the literature.
@@ -205,7 +205,7 @@ The field changes rapidly enough that tutorials any older than a few years are m
 
 ### Other models
 
-* [Flair embeddings from PubMed](https://github.com/zalandoresearch/flair/pull/519) ⭐ 14,391 | 🐛 32 | 🌐 Python | 📅 2025-10-27 - A language model available through the Flair framework and embedding method. Trained over a 5% sample of PubMed abstracts until 2015, or > 1.2 million abstracts in total.
+* [Flair embeddings from PubMed](https://github.com/zalandoresearch/flair/pull/519) ⭐ 14,390 | 🐛 33 | 🌐 Python | 📅 2025-10-27 - A language model available through the Flair framework and embedding method. Trained over a 5% sample of PubMed abstracts until 2015, or > 1.2 million abstracts in total.
 
 ### Text Embeddings
 
@@ -229,7 +229,7 @@ The following resources contain indexed text documents in the biomedical science
 
 ### Annotated Text Data
 
-* [CRAFT](https://github.com/UCDenver-ccp/CRAFT) ⭐ 82 | 🐛 0 | 🌐 Clojure | 📅 2026-09-28 - [paper](https://link.springer.com/chapter/10.1007/978-94-024-0881-2_53) - 67 full-text biomedical articles annotated in a variety of ways, including for concepts and coreferences. Now on version 5, including annotations linking concepts to the MONDO disease ontology.
+* [CRAFT](https://github.com/UCDenver-ccp/CRAFT) ⭐ 82 | 🐛 0 | 🌐 Clojure | 📅 2026-10-01 - [paper](https://link.springer.com/chapter/10.1007/978-94-024-0881-2_53) - 67 full-text biomedical articles annotated in a variety of ways, including for concepts and coreferences. Now on version 5, including annotations linking concepts to the MONDO disease ontology.
 * [SPL-ADR-200db](https://bionlp.nlm.nih.gov/tac2017adversereactions/) - [paper](https://www.nature.com/articles/sdata20181) - A pilot dataset containing standardised information, and annotations of occurence in text, about \~5,000 known adverse reactions for 200 FDA-approved drugs.
 * [BioCreAtIvE 1](https://sourceforge.net/projects/biocreative/files/) - [paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-6-S1-S1) - 15,000 sentences (10,000 training and 5,000 test) annotated for protein and gene names. 1,000 full text biomedical research articles annotated with protein names and Gene Ontology terms.
 * [BioCreAtIvE 2](https://sourceforge.net/projects/biocreative/files/) - [paper](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2008-9-s2-s1) - 15,000 sentences (10,000 training and 5,000 test, different from the first corpus) annotated for protein and gene names. 542 abstracts linked to EntrezGene identifiers. A variety of research articles annotated for features of protein–protein interactions.
@@ -300,4 +300,4 @@ Do you need a [data model](https://en.wikipedia.org/wiki/Data_model)? If you are
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
