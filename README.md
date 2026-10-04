@@ -18,7 +18,7 @@ BioIE has undergone massive changes since the introduction of language models li
 
 Resources included here are preferentially those available at no monetary cost and limited license requirements. Methods and datasets should be publicly accessible and actively maintained.
 
-See also [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 19,051 | 🐛 27 | 📅 2026-09-07, [awesome-biology](https://github.com/raivivek/awesome-biology) ⭐ 459 | 🐛 4 | 📅 2026-05-17 and [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) ⭐ 4,307 | 🐛 44 | 📅 2026-09-27.
+See also [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 19,054 | 🐛 27 | 📅 2026-09-07, [awesome-biology](https://github.com/raivivek/awesome-biology) ⭐ 459 | 🐛 4 | 📅 2026-05-17 and [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) ⭐ 4,307 | 🐛 44 | 📅 2026-09-27.
 
 *Please read the [contribution guidelines](contributing.md) before contributing. Please add your favourite resource by raising a [pull request](https://github.com/caufieldjh/awesome-bioie/pulls).*
 
@@ -149,7 +149,7 @@ The field changes rapidly enough that tutorials any older than a few years are m
 
 ## Code Libraries
 
-* [Biopython](https://biopython.org/) - [paper](http://dx.doi.org/10.1093/bioinformatics/btp163) - [code](https://github.com/biopython/biopython) ⭐ 5,218 | 🐛 627 | 🌐 Python | 📅 2026-10-02 - Python tools primarily intended for bioinformatics and computational molecular biology purposes, but also a convenient way to obtain data, including documents/abstracts from PubMed (see Chapter 9 of the documentation).
+* [Biopython](https://biopython.org/) - [paper](http://dx.doi.org/10.1093/bioinformatics/btp163) - [code](https://github.com/biopython/biopython) ⭐ 5,218 | 🐛 628 | 🌐 Python | 📅 2026-10-02 - Python tools primarily intended for bioinformatics and computational molecular biology purposes, but also a convenient way to obtain data, including documents/abstracts from PubMed (see Chapter 9 of the documentation).
 * [ScispaCy](https://github.com/allenai/SciSpaCy) ⭐ 1,995 | 🐛 58 | 🌐 Python | 📅 2025-12-04 - [paper](https://arxiv.org/abs/1902.07669) - A version of the [spaCy](https://spacy.io/) framework for scientific and biomedical documents.
 * [medaCy](https://github.com/NLPatVCU/medaCy) ⭐ 442 | 🐛 23 | 🌐 Python | 📅 2022-11-01 - A system for building predictive medical natural language processing models. Built on the [spaCy](https://spacy.io/) framework.
 * [Med7](https://medium.com/@kormilitzin/med7-clinical-information-extraction-system-in-python-and-spacy-5e6f68ab1c68) - [paper](https://arxiv.org/abs/2003.01271) - [code](https://github.com/kormilitzin/med7) ⭐ 227 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2024-12-11 - a Python package and model (for use with spaCy) for doing NER with medication-related concepts.
@@ -158,7 +158,7 @@ The field changes rapidly enough that tutorials any older than a few years are m
 
 ### Repos for Specific Datasets
 
-* [mimic-code](https://github.com/MIT-LCP/mimic-code) ⭐ 3,397 | 🐛 323 | 🌐 Jupyter Notebook | 📅 2026-09-01 - Code associated with the MIMIC-III dataset (see below). Includes some helpful [tutorials](https://github.com/MIT-LCP/mimic-code/tree/master/tutorials) ⭐ 3,397 | 🐛 323 | 🌐 Jupyter Notebook | 📅 2026-09-01.
+* [mimic-code](https://github.com/MIT-LCP/mimic-code) ⭐ 3,399 | 🐛 323 | 🌐 Jupyter Notebook | 📅 2026-09-01 - Code associated with the MIMIC-III dataset (see below). Includes some helpful [tutorials](https://github.com/MIT-LCP/mimic-code/tree/master/tutorials) ⭐ 3,399 | 🐛 323 | 🌐 Jupyter Notebook | 📅 2026-09-01.
 
 [Back to Top](#contents)
 
@@ -300,4 +300,4 @@ Do you need a [data model](https://en.wikipedia.org/wiki/Data_model)? If you are
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
