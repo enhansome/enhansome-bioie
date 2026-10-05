@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T09:39:30Z",
-            "open_issues": 628,
+            "open_issues": 629,
             "owner": "biopython",
             "repo": "biopython",
-            "stars": 5218,
+            "stars": 5219,
             "topics": [
               "bioinformatics",
               "biopython",
@@ -50,7 +50,7 @@
             "open_issues": 58,
             "owner": "allenai",
             "repo": "scispacy",
-            "stars": 1995,
+            "stars": 1994,
             "topics": [
               "bioinformatics",
               "biomedical",
@@ -177,7 +177,7 @@
                 "open_issues": 323,
                 "owner": "MIT-LCP",
                 "repo": "mimic-code",
-                "stars": 3399,
+                "stars": 3401,
                 "topics": [
                   "critical-care",
                   "icu",
@@ -837,7 +837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T13:53:43.656Z",
+    "last_updated": "2026-10-05T17:05:10.011Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧫 A curated list of resources relevant to doing Biomedical Information Extraction (including BioNLP)",
@@ -849,7 +849,7 @@
       "open_issues": 9,
       "owner": "caufieldjh",
       "repo": "awesome-bioie",
-      "stars": 467,
+      "stars": 466,
       "topics": [
         "awesome",
         "awesome-list",
