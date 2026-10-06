@@ -15,8 +15,8 @@
             "id": 151541,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T09:39:30Z",
-            "open_issues": 629,
+            "last_commit": "2026-10-06T09:39:51Z",
+            "open_issues": 630,
             "owner": "biopython",
             "repo": "biopython",
             "stars": 5219,
@@ -784,7 +784,7 @@
             "id": 112995625,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T02:04:58Z",
+            "last_commit": "2026-10-05T23:36:59Z",
             "open_issues": 189,
             "owner": "biolink",
             "repo": "biolink-model",
@@ -837,7 +837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T17:05:10.011Z",
+    "last_updated": "2026-10-06T10:46:46.016Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧫 A curated list of resources relevant to doing Biomedical Information Extraction (including BioNLP)",
@@ -849,7 +849,7 @@
       "open_issues": 9,
       "owner": "caufieldjh",
       "repo": "awesome-bioie",
-      "stars": 466,
+      "stars": 467,
       "topics": [
         "awesome",
         "awesome-list",
