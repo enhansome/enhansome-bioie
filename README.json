@@ -19,7 +19,7 @@
             "open_issues": 630,
             "owner": "biopython",
             "repo": "biopython",
-            "stars": 5219,
+            "stars": 5220,
             "topics": [
               "bioinformatics",
               "biopython",
@@ -837,7 +837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:46:46.016Z",
+    "last_updated": "2026-10-06T15:03:12.123Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧫 A curated list of resources relevant to doing Biomedical Information Extraction (including BioNLP)",
