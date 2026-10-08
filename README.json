@@ -15,11 +15,11 @@
             "id": 151541,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-07T14:08:27Z",
-            "open_issues": 635,
+            "last_commit": "2026-10-08T13:01:30Z",
+            "open_issues": 632,
             "owner": "biopython",
             "repo": "biopython",
-            "stars": 5221,
+            "stars": 5223,
             "topics": [
               "bioinformatics",
               "biopython",
@@ -608,7 +608,7 @@
                 "open_issues": 75,
                 "owner": "microsoft",
                 "repo": "BioGPT",
-                "stars": 4487,
+                "stars": 4486,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:31.776Z"
@@ -636,7 +636,7 @@
                 "open_issues": 33,
                 "owner": "flairNLP",
                 "repo": "flair",
-                "stars": 14390,
+                "stars": 14391,
                 "topics": [
                   "machine-learning",
                   "named-entity-recognition",
@@ -763,11 +763,11 @@
             "id": 25224860,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-08-25T17:22:48Z",
-            "open_issues": 82,
+            "last_commit": "2026-10-07T17:27:06Z",
+            "open_issues": 81,
             "owner": "OHDSI",
             "repo": "CommonDataModel",
-            "stars": 1088,
+            "stars": 1089,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:31.776Z"
@@ -837,7 +837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T15:30:07.401Z",
+    "last_updated": "2026-10-08T15:31:43.641Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧫 A curated list of resources relevant to doing Biomedical Information Extraction (including BioNLP)",
