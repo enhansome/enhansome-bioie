@@ -19,7 +19,7 @@
             "open_issues": 634,
             "owner": "biopython",
             "repo": "biopython",
-            "stars": 5230,
+            "stars": 5232,
             "topics": [
               "bioinformatics",
               "biopython",
@@ -177,7 +177,7 @@
                 "open_issues": 323,
                 "owner": "MIT-LCP",
                 "repo": "mimic-code",
-                "stars": 3412,
+                "stars": 3415,
                 "topics": [
                   "critical-care",
                   "icu",
@@ -214,7 +214,7 @@
             "open_issues": 10,
             "owner": "apache",
             "repo": "ctakes",
-            "stars": 138,
+            "stars": 139,
             "topics": [
               "ai",
               "bioinformatics",
@@ -391,7 +391,7 @@
                 "open_issues": 493,
                 "owner": "nlplab",
                 "repo": "brat",
-                "stars": 1879,
+                "stars": 1880,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:31.776Z"
@@ -636,7 +636,7 @@
                 "open_issues": 33,
                 "owner": "flairNLP",
                 "repo": "flair",
-                "stars": 14393,
+                "stars": 14394,
                 "topics": [
                   "machine-learning",
                   "named-entity-recognition",
@@ -837,7 +837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T13:38:23.520Z",
+    "last_updated": "2026-10-15T13:20:51.870Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧫 A curated list of resources relevant to doing Biomedical Information Extraction (including BioNLP)",
@@ -846,7 +846,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-05-26T15:54:20Z",
-      "open_issues": 8,
+      "open_issues": 9,
       "owner": "caufieldjh",
       "repo": "awesome-bioie",
       "stars": 468,
