@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-19T19:44:09Z",
-            "open_issues": 633,
+            "open_issues": 634,
             "owner": "biopython",
             "repo": "biopython",
-            "stars": 5237,
+            "stars": 5238,
             "topics": [
               "bioinformatics",
               "biopython",
@@ -174,7 +174,7 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-09-01T13:06:26Z",
-                "open_issues": 323,
+                "open_issues": 319,
                 "owner": "MIT-LCP",
                 "repo": "mimic-code",
                 "stars": 3418,
@@ -391,7 +391,7 @@
                 "open_issues": 493,
                 "owner": "nlplab",
                 "repo": "brat",
-                "stars": 1880,
+                "stars": 1881,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:31.776Z"
@@ -633,7 +633,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-19T11:03:52Z",
-                "open_issues": 33,
+                "open_issues": 34,
                 "owner": "flairNLP",
                 "repo": "flair",
                 "stars": 14395,
@@ -767,7 +767,7 @@
             "open_issues": 84,
             "owner": "OHDSI",
             "repo": "CommonDataModel",
-            "stars": 1094,
+            "stars": 1095,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:31.776Z"
@@ -784,8 +784,8 @@
             "id": 112995625,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-18T06:43:53Z",
-            "open_issues": 192,
+            "last_commit": "2026-10-20T19:20:20Z",
+            "open_issues": 197,
             "owner": "biolink",
             "repo": "biolink-model",
             "stars": 267,
@@ -837,7 +837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T13:31:16.926Z",
+    "last_updated": "2026-10-21T13:42:15.753Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧫 A curated list of resources relevant to doing Biomedical Information Extraction (including BioNLP)",
