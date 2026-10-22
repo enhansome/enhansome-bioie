@@ -15,11 +15,11 @@
             "id": 151541,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-19T19:44:09Z",
+            "last_commit": "2026-10-22T08:47:39Z",
             "open_issues": 634,
             "owner": "biopython",
             "repo": "biopython",
-            "stars": 5238,
+            "stars": 5242,
             "topics": [
               "bioinformatics",
               "biopython",
@@ -473,7 +473,7 @@
                 "open_issues": 60,
                 "owner": "allenai",
                 "repo": "scibert",
-                "stars": 1717,
+                "stars": 1718,
                 "topics": [
                   "bert",
                   "nlp",
@@ -550,7 +550,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2020-08-25T14:11:44Z",
-                    "open_issues": 10,
+                    "open_issues": 11,
                     "owner": "EmilyAlsentzer",
                     "repo": "clinicalBERT",
                     "stars": 776,
@@ -767,7 +767,7 @@
             "open_issues": 84,
             "owner": "OHDSI",
             "repo": "CommonDataModel",
-            "stars": 1095,
+            "stars": 1096,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:31.776Z"
@@ -837,7 +837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T13:42:15.753Z",
+    "last_updated": "2026-10-22T13:43:20.201Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧫 A curated list of resources relevant to doing Biomedical Information Extraction (including BioNLP)",
