@@ -50,7 +50,7 @@
             "open_issues": 58,
             "owner": "allenai",
             "repo": "scispacy",
-            "stars": 1996,
+            "stars": 1997,
             "topics": [
               "bioinformatics",
               "biomedical",
@@ -553,7 +553,7 @@
                     "open_issues": 11,
                     "owner": "EmilyAlsentzer",
                     "repo": "clinicalBERT",
-                    "stars": 776,
+                    "stars": 775,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:31.776Z"
@@ -608,7 +608,7 @@
                 "open_issues": 75,
                 "owner": "microsoft",
                 "repo": "BioGPT",
-                "stars": 4485,
+                "stars": 4483,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:31.776Z"
@@ -837,7 +837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T13:20:03.706Z",
+    "last_updated": "2026-10-24T12:37:27.319Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧫 A curated list of resources relevant to doing Biomedical Information Extraction (including BioNLP)",
@@ -849,7 +849,7 @@
       "open_issues": 9,
       "owner": "caufieldjh",
       "repo": "awesome-bioie",
-      "stars": 469,
+      "stars": 468,
       "topics": [
         "awesome",
         "awesome-list",
