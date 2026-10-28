@@ -18,7 +18,7 @@ BioIE has undergone massive changes since the introduction of language models li
 
 Resources included here are preferentially those available at no monetary cost and limited license requirements. Methods and datasets should be publicly accessible and actively maintained.
 
-See also [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 19,105 | 🐛 7 | 📅 2026-10-12, [awesome-biology](https://github.com/raivivek/awesome-biology) ⭐ 459 | 🐛 6 | 📅 2026-05-17 and [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) ⭐ 4,337 | 🐛 49 | 📅 2026-09-27.
+See also [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 19,107 | 🐛 7 | 📅 2026-10-12, [awesome-biology](https://github.com/raivivek/awesome-biology) ⭐ 459 | 🐛 6 | 📅 2026-05-17 and [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) ⭐ 4,338 | 🐛 49 | 📅 2026-09-27.
 
 *Please read the [contribution guidelines](contributing.md) before contributing. Please add your favourite resource by raising a [pull request](https://github.com/caufieldjh/awesome-bioie/pulls).*
 
@@ -149,7 +149,7 @@ The field changes rapidly enough that tutorials any older than a few years are m
 
 ## Code Libraries
 
-* [Biopython](https://biopython.org/) - [paper](http://dx.doi.org/10.1093/bioinformatics/btp163) - [code](https://github.com/biopython/biopython) ⭐ 5,246 | 🐛 638 | 🌐 Python | 📅 2026-10-26 - Python tools primarily intended for bioinformatics and computational molecular biology purposes, but also a convenient way to obtain data, including documents/abstracts from PubMed (see Chapter 9 of the documentation).
+* [Biopython](https://biopython.org/) - [paper](http://dx.doi.org/10.1093/bioinformatics/btp163) - [code](https://github.com/biopython/biopython) ⭐ 5,247 | 🐛 638 | 🌐 Python | 📅 2026-10-28 - Python tools primarily intended for bioinformatics and computational molecular biology purposes, but also a convenient way to obtain data, including documents/abstracts from PubMed (see Chapter 9 of the documentation).
 * [ScispaCy](https://github.com/allenai/SciSpaCy) ⭐ 1,997 | 🐛 58 | 🌐 Python | 📅 2025-12-04 - [paper](https://arxiv.org/abs/1902.07669) - A version of the [spaCy](https://spacy.io/) framework for scientific and biomedical documents.
 * [medaCy](https://github.com/NLPatVCU/medaCy) ⭐ 442 | 🐛 23 | 🌐 Python | 📅 2022-11-01 - A system for building predictive medical natural language processing models. Built on the [spaCy](https://spacy.io/) framework.
 * [Med7](https://medium.com/@kormilitzin/med7-clinical-information-extraction-system-in-python-and-spacy-5e6f68ab1c68) - [paper](https://arxiv.org/abs/2003.01271) - [code](https://github.com/kormilitzin/med7) ⭐ 227 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2024-12-11 - a Python package and model (for use with spaCy) for doing NER with medication-related concepts.
@@ -164,7 +164,7 @@ The field changes rapidly enough that tutorials any older than a few years are m
 
 ## Tools, Platforms, and Services
 
-* [cTAKES](https://ctakes.apache.org/) - [paper](https://academic.oup.com/jamia/article/17/5/507/830823) - [code](https://github.com/apache/ctakes) ⭐ 139 | 🐛 10 | 🌐 Java | 📅 2026-08-12 - A system for processing the text in electronic medical records. Widely used and open source.
+* [cTAKES](https://ctakes.apache.org/) - [paper](https://academic.oup.com/jamia/article/17/5/507/830823) - [code](https://github.com/apache/ctakes) ⭐ 140 | 🐛 10 | 🌐 Java | 📅 2026-08-12 - A system for processing the text in electronic medical records. Widely used and open source.
 * [SemEHR](https://github.com/CogStack/CogStack-SemEHR) ⚠️ Archived - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6019046/) - an IE infrastructure for electronic health records (EHR). Built on the [CogStack project](https://github.com/CogStack).
 * [Pubrunner](https://github.com/jakelever/pubrunner) ⭐ 43 | 🐛 0 | 🌐 Python | 📅 2020-07-11 - A framework for running text mining tools on the newest set(s) of documents from PubMed.
 * [TabInOut](https://github.com/nikolamilosevic86/TabInOut) ⭐ 42 | 🐛 0 | 🌐 Python | 📅 2019-04-15 - [paper](https://link.springer.com/article/10.1007/s10032-019-00317-0) - a framework for IE from tables in the literature.
@@ -195,8 +195,8 @@ The field changes rapidly enough that tutorials any older than a few years are m
 * [BioBERT](https://github.com/naver/biobert-pretrained) ⭐ 710 | 🐛 7 | 📅 2020-06-02 - [paper](https://arxiv.org/abs/1901.08746) - [code](https://github.com/dmis-lab/biobert) ⭐ 2,214 | 🐛 57 | 🌐 Python | 📅 2023-08-13 - A PubMed and PubMed Central-trained version of the [BERT language model](https://arxiv.org/abs/1810.04805).
 * [BlueBERT](https://github.com/ncbi-nlp/bluebert) ⭐ 600 | 🐛 6 | 🌐 Python | 📅 2023-03-25 - [paper](https://arxiv.org/abs/1906.05474) - A BERT model pre-trained on PubMed text and MIMIC-III notes.
 * ClinicalBERT - Two language models trained on clinical text have similar names. Both are BERT models trained on the text of clinical notes from the MIMIC-III dataset.
-  * [Alsentzer et al Clinical BERT](https://github.com/EmilyAlsentzer/clinicalBERT) ⭐ 776 | 🐛 11 | 🌐 Python | 📅 2020-08-25 - [paper](https://www.aclweb.org/anthology/W19-1909/)
-  * [Huang et al ClinicalBERT](https://github.com/kexinhuang12345/clinicalBERT) ⭐ 453 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2022-10-17 - [paper](https://arxiv.org/abs/1904.05342)
+  * [Alsentzer et al Clinical BERT](https://github.com/EmilyAlsentzer/clinicalBERT) ⭐ 776 | 🐛 10 | 🌐 Python | 📅 2020-08-25 - [paper](https://www.aclweb.org/anthology/W19-1909/)
+  * [Huang et al ClinicalBERT](https://github.com/kexinhuang12345/clinicalBERT) ⭐ 454 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2022-10-17 - [paper](https://arxiv.org/abs/1904.05342)
 * [PubMedBERT](https://microsoft.github.io/BLURB/models.html) - [paper](https://arxiv.org/abs/2007.15779) - A BERT model trained from scratch on PubMed, with versions trained on abstracts+full texts and on abstracts alone.
 
 ### GPT-2 models
@@ -269,7 +269,7 @@ Protein-protein interactions are abbreviated as PPI. The following sets are avai
 
 ## Ontologies and Controlled Vocabularies
 
-* [Disease Ontology](http://www.disease-ontology.org/) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4383880/) - An ontology of human diseases. Has cross-links to MeSH, ICD, NCI Thesaurus, SNOMED, and OMIM. Public domain. Available on [GitHub](https://github.com/DiseaseOntology/HumanDiseaseOntology) ⭐ 417 | 🐛 83 | 🌐 Web Ontology Language | 📅 2026-10-27 and on the [OBO Foundry](http://www.obofoundry.org/ontology/doid.html).
+* [Disease Ontology](http://www.disease-ontology.org/) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4383880/) - An ontology of human diseases. Has cross-links to MeSH, ICD, NCI Thesaurus, SNOMED, and OMIM. Public domain. Available on [GitHub](https://github.com/DiseaseOntology/HumanDiseaseOntology) ⭐ 418 | 🐛 83 | 🌐 Web Ontology Language | 📅 2026-10-27 and on the [OBO Foundry](http://www.obofoundry.org/ontology/doid.html).
 * [RxNorm](https://www.nlm.nih.gov/research/umls/rxnorm/index.html) - [paper](https://academic.oup.com/jamia/article/18/4/441/734170) - Normalized names for clinical drugs and drug packs, with combined ingredients, strengths, and form, and assigned types from the Semantic Network (see below). Released monthly.
 * [SPECIALIST Lexicon](https://lexsrv3.nlm.nih.gov/Specialist/Summary/lexicon.html) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2247735/) - A general English lexicon that includes many biomedical terms. Updated yearly since 1994 and still updated as of 2019. Part of UMLS but does not require UTS account to download.
 * [UMLS Metathesaurus](https://www.nlm.nih.gov/research/umls/knowledge_sources/metathesaurus/index.html) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC308795/) - Mappings between >3.8 million concepts, 14 million concept names, and >200 sources of biomedical vocabulary and identifiers. It's big. It may help to prepare a subset of the Metathesaurus with the [MetamorphoSys installation tool](https://www.nlm.nih.gov/research/umls/implementation_resources/metamorphosys/help.html) but we're still talking about \~30 Gb of disk space required for the 2019 release. [See the manual here](https://www.ncbi.nlm.nih.gov/books/NBK9684/). Requires UTS account.
@@ -300,4 +300,4 @@ Do you need a [data model](https://en.wikipedia.org/wiki/Data_model)? If you are
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._

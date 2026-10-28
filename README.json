@@ -15,11 +15,11 @@
             "id": 151541,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-26T16:33:47Z",
+            "last_commit": "2026-10-28T09:17:34Z",
             "open_issues": 638,
             "owner": "biopython",
             "repo": "biopython",
-            "stars": 5246,
+            "stars": 5247,
             "topics": [
               "bioinformatics",
               "biopython",
@@ -214,7 +214,7 @@
             "open_issues": 10,
             "owner": "apache",
             "repo": "ctakes",
-            "stars": 139,
+            "stars": 140,
             "topics": [
               "ai",
               "bioinformatics",
@@ -550,7 +550,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2020-08-25T14:11:44Z",
-                    "open_issues": 11,
+                    "open_issues": 10,
                     "owner": "EmilyAlsentzer",
                     "repo": "clinicalBERT",
                     "stars": 776,
@@ -574,7 +574,7 @@
                     "open_issues": 7,
                     "owner": "kexinhuang12345",
                     "repo": "clinicalBERT",
-                    "stars": 453,
+                    "stars": 454,
                     "topics": [
                       "clinicalbert",
                       "hospital-readmission",
@@ -608,7 +608,7 @@
                 "open_issues": 75,
                 "owner": "microsoft",
                 "repo": "BioGPT",
-                "stars": 4484,
+                "stars": 4483,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:31.776Z"
@@ -837,7 +837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T14:22:09.147Z",
+    "last_updated": "2026-10-28T15:02:57.292Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧫 A curated list of resources relevant to doing Biomedical Information Extraction (including BioNLP)",
