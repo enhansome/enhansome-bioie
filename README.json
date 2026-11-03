@@ -19,7 +19,7 @@
             "open_issues": 639,
             "owner": "biopython",
             "repo": "biopython",
-            "stars": 5253,
+            "stars": 5256,
             "topics": [
               "bioinformatics",
               "biopython",
@@ -177,7 +177,7 @@
                 "open_issues": 319,
                 "owner": "MIT-LCP",
                 "repo": "mimic-code",
-                "stars": 3430,
+                "stars": 3433,
                 "topics": [
                   "critical-care",
                   "icu",
@@ -636,7 +636,7 @@
                 "open_issues": 34,
                 "owner": "flairNLP",
                 "repo": "flair",
-                "stars": 14395,
+                "stars": 14396,
                 "topics": [
                   "machine-learning",
                   "named-entity-recognition",
@@ -837,7 +837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T18:13:10.738Z",
+    "last_updated": "2026-11-03T16:06:59.345Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧫 A curated list of resources relevant to doing Biomedical Information Extraction (including BioNLP)",
