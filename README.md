@@ -18,7 +18,7 @@ BioIE has undergone massive changes since the introduction of language models li
 
 Resources included here are preferentially those available at no monetary cost and limited license requirements. Methods and datasets should be publicly accessible and actively maintained.
 
-See also [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 19,146 | 🐛 16 | 📅 2026-10-12, [awesome-biology](https://github.com/raivivek/awesome-biology) ⭐ 461 | 🐛 5 | 📅 2026-05-17 and [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) ⭐ 4,361 | 🐛 54 | 📅 2026-09-27.
+See also [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 19,153 | 🐛 16 | 📅 2026-10-12, [awesome-biology](https://github.com/raivivek/awesome-biology) ⭐ 461 | 🐛 5 | 📅 2026-05-17 and [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) ⭐ 4,363 | 🐛 57 | 📅 2026-09-27.
 
 *Please read the [contribution guidelines](contributing.md) before contributing. Please add your favourite resource by raising a [pull request](https://github.com/caufieldjh/awesome-bioie/pulls).*
 
@@ -149,7 +149,7 @@ The field changes rapidly enough that tutorials any older than a few years are m
 
 ## Code Libraries
 
-* [Biopython](https://biopython.org/) - [paper](http://dx.doi.org/10.1093/bioinformatics/btp163) - [code](https://github.com/biopython/biopython) ⭐ 5,269 | 🐛 637 | 🌐 Python | 📅 2026-11-11 - Python tools primarily intended for bioinformatics and computational molecular biology purposes, but also a convenient way to obtain data, including documents/abstracts from PubMed (see Chapter 9 of the documentation).
+* [Biopython](https://biopython.org/) - [paper](http://dx.doi.org/10.1093/bioinformatics/btp163) - [code](https://github.com/biopython/biopython) ⭐ 5,271 | 🐛 637 | 🌐 Python | 📅 2026-11-12 - Python tools primarily intended for bioinformatics and computational molecular biology purposes, but also a convenient way to obtain data, including documents/abstracts from PubMed (see Chapter 9 of the documentation).
 * [ScispaCy](https://github.com/allenai/SciSpaCy) ⭐ 2,002 | 🐛 58 | 🌐 Python | 📅 2025-12-04 - [paper](https://arxiv.org/abs/1902.07669) - A version of the [spaCy](https://spacy.io/) framework for scientific and biomedical documents.
 * [medaCy](https://github.com/NLPatVCU/medaCy) ⭐ 441 | 🐛 23 | 🌐 Python | 📅 2022-11-01 - A system for building predictive medical natural language processing models. Built on the [spaCy](https://spacy.io/) framework.
 * [Med7](https://medium.com/@kormilitzin/med7-clinical-information-extraction-system-in-python-and-spacy-5e6f68ab1c68) - [paper](https://arxiv.org/abs/2003.01271) - [code](https://github.com/kormilitzin/med7) ⭐ 227 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2024-12-11 - a Python package and model (for use with spaCy) for doing NER with medication-related concepts.
@@ -158,13 +158,13 @@ The field changes rapidly enough that tutorials any older than a few years are m
 
 ### Repos for Specific Datasets
 
-* [mimic-code](https://github.com/MIT-LCP/mimic-code) ⭐ 3,438 | 🐛 320 | 🌐 Jupyter Notebook | 📅 2026-09-01 - Code associated with the MIMIC-III dataset (see below). Includes some helpful [tutorials](https://github.com/MIT-LCP/mimic-code/tree/master/tutorials) ⭐ 3,438 | 🐛 320 | 🌐 Jupyter Notebook | 📅 2026-09-01.
+* [mimic-code](https://github.com/MIT-LCP/mimic-code) ⭐ 3,439 | 🐛 320 | 🌐 Jupyter Notebook | 📅 2026-09-01 - Code associated with the MIMIC-III dataset (see below). Includes some helpful [tutorials](https://github.com/MIT-LCP/mimic-code/tree/master/tutorials) ⭐ 3,439 | 🐛 320 | 🌐 Jupyter Notebook | 📅 2026-09-01.
 
 [Back to Top](#contents)
 
 ## Tools, Platforms, and Services
 
-* [cTAKES](https://ctakes.apache.org/) - [paper](https://academic.oup.com/jamia/article/17/5/507/830823) - [code](https://github.com/apache/ctakes) ⭐ 141 | 🐛 10 | 🌐 Java | 📅 2026-11-04 - A system for processing the text in electronic medical records. Widely used and open source.
+* [cTAKES](https://ctakes.apache.org/) - [paper](https://academic.oup.com/jamia/article/17/5/507/830823) - [code](https://github.com/apache/ctakes) ⭐ 142 | 🐛 10 | 🌐 Java | 📅 2026-11-04 - A system for processing the text in electronic medical records. Widely used and open source.
 * [SemEHR](https://github.com/CogStack/CogStack-SemEHR) ⚠️ Archived - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6019046/) - an IE infrastructure for electronic health records (EHR). Built on the [CogStack project](https://github.com/CogStack).
 * [Pubrunner](https://github.com/jakelever/pubrunner) ⭐ 43 | 🐛 0 | 🌐 Python | 📅 2020-07-11 - A framework for running text mining tools on the newest set(s) of documents from PubMed.
 * [TabInOut](https://github.com/nikolamilosevic86/TabInOut) ⭐ 42 | 🐛 0 | 🌐 Python | 📅 2019-04-15 - [paper](https://link.springer.com/article/10.1007/s10032-019-00317-0) - a framework for IE from tables in the literature.
@@ -178,7 +178,7 @@ The field changes rapidly enough that tutorials any older than a few years are m
 ### Annotation Tools
 
 * [brat](https://brat.nlplab.org/) - [paper](https://www.aclweb.org/anthology/E12-2021/) - [code](https://github.com/nlplab/brat) ⭐ 1,880 | 🐛 493 | 🌐 Python | 📅 2024-07-03 - The brat rapid annotation tool. Supports producing text annotations visually, through the browser. Not subject specific; appropriate for many annotation projects. Visualization is based on that of the [*stav* tool](https://github.com/nlplab/stav/) ⭐ 35 | 🐛 1 | 🌐 Python | 📅 2011-11-02.
-* [Anafora](https://github.com/weitechen/anafora) ⭐ 243 | 🐛 43 | 🌐 JavaScript | 📅 2022-10-10 - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5657237/) - An annotation tool with adjudication and progress tracking features.
+* [Anafora](https://github.com/weitechen/anafora) ⭐ 244 | 🐛 43 | 🌐 JavaScript | 📅 2022-10-10 - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5657237/) - An annotation tool with adjudication and progress tracking features.
 * [MedTator](https://ohnlp.github.io/MedTator/) - [paper](https://academic.oup.com/bioinformatics/article-abstract/38/6/1776/6496915) - [code](https://github.com/OHNLP/MedTator) ⭐ 64 | 🐛 8 | 🌐 JavaScript | 📅 2025-02-19 - An annotation tool designed to have minimal dependencies.
 
 [Back to Top](#contents)
@@ -205,7 +205,7 @@ The field changes rapidly enough that tutorials any older than a few years are m
 
 ### Other models
 
-* [Flair embeddings from PubMed](https://github.com/zalandoresearch/flair/pull/519) ⭐ 14,399 | 🐛 34 | 🌐 Python | 📅 2026-10-19 - A language model available through the Flair framework and embedding method. Trained over a 5% sample of PubMed abstracts until 2015, or > 1.2 million abstracts in total.
+* [Flair embeddings from PubMed](https://github.com/zalandoresearch/flair/pull/519) ⭐ 14,401 | 🐛 34 | 🌐 Python | 📅 2026-10-19 - A language model available through the Flair framework and embedding method. Trained over a 5% sample of PubMed abstracts until 2015, or > 1.2 million abstracts in total.
 
 ### Text Embeddings
 
@@ -281,8 +281,8 @@ Protein-protein interactions are abbreviated as PPI. The following sets are avai
 
 Do you need a [data model](https://en.wikipedia.org/wiki/Data_model)? If you are working with biomedical data, then the answer is probably "Yes".
 
-* [OMOP Common Data Model](https://github.com/OHDSI/CommonDataModel) ⭐ 1,100 | 🐛 81 | 🌐 HTML | 📅 2026-10-28 - a standard for observational healthcare data.
-* [Biolink](https://biolink.github.io/biolink-model/) - [code](https://github.com/biolink/biolink-model) ⭐ 270 | 🐛 208 | 🌐 Python | 📅 2026-11-10 - A data model of biological entities. Provided as a [YAML](https://yaml.org/) file.
+* [OMOP Common Data Model](https://github.com/OHDSI/CommonDataModel) ⭐ 1,101 | 🐛 81 | 🌐 HTML | 📅 2026-10-28 - a standard for observational healthcare data.
+* [Biolink](https://biolink.github.io/biolink-model/) - [code](https://github.com/biolink/biolink-model) ⭐ 271 | 🐛 209 | 🌐 Python | 📅 2026-11-12 - A data model of biological entities. Provided as a [YAML](https://yaml.org/) file.
 * [unmiri-ngs-fhir-schema](https://github.com/unmirihealth/unmiri-ngs-fhir-schema) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-05-09 - Apache-2.0 JSON Schema (Draft 2020-12) API contract for cross-vendor somatic NGS interpretation output (Foundation Medicine, Tempus, Caris, Guardant), aligned with the HL7 FHIR Genomics IG. A standards-aligned target representation for biomedical information-extraction pipelines that parse oncology lab reports.
 * [BioUML](http://wiki.biouml.org/index.php/BioUML) - [paper](https://academic.oup.com/nar/article/47/W1/W225/5498754) - An architecture for biomedical data analysis, integration, and visualization. Conceptually based on the visual modeling language [UML](https://www.uml.org/what-is-uml.htm).
 
@@ -300,4 +300,4 @@ Do you need a [data model](https://en.wikipedia.org/wiki/Data_model)? If you are
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
