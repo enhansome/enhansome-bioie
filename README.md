@@ -18,7 +18,7 @@ BioIE has undergone massive changes since the introduction of language models li
 
 Resources included here are preferentially those available at no monetary cost and limited license requirements. Methods and datasets should be publicly accessible and actively maintained.
 
-See also [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 19,154 | 🐛 16 | 📅 2026-10-12, [awesome-biology](https://github.com/raivivek/awesome-biology) ⭐ 461 | 🐛 5 | 📅 2026-05-17 and [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) ⭐ 4,364 | 🐛 57 | 📅 2026-09-27.
+See also [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 19,157 | 🐛 16 | 📅 2026-10-12, [awesome-biology](https://github.com/raivivek/awesome-biology) ⭐ 461 | 🐛 5 | 📅 2026-05-17 and [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) ⭐ 4,365 | 🐛 58 | 📅 2026-09-27.
 
 *Please read the [contribution guidelines](contributing.md) before contributing. Please add your favourite resource by raising a [pull request](https://github.com/caufieldjh/awesome-bioie/pulls).*
 
@@ -205,7 +205,7 @@ The field changes rapidly enough that tutorials any older than a few years are m
 
 ### Other models
 
-* [Flair embeddings from PubMed](https://github.com/zalandoresearch/flair/pull/519) ⭐ 14,401 | 🐛 34 | 🌐 Python | 📅 2026-10-19 - A language model available through the Flair framework and embedding method. Trained over a 5% sample of PubMed abstracts until 2015, or > 1.2 million abstracts in total.
+* [Flair embeddings from PubMed](https://github.com/zalandoresearch/flair/pull/519) ⭐ 14,400 | 🐛 34 | 🌐 Python | 📅 2026-10-19 - A language model available through the Flair framework and embedding method. Trained over a 5% sample of PubMed abstracts until 2015, or > 1.2 million abstracts in total.
 
 ### Text Embeddings
 
@@ -269,7 +269,7 @@ Protein-protein interactions are abbreviated as PPI. The following sets are avai
 
 ## Ontologies and Controlled Vocabularies
 
-* [Disease Ontology](http://www.disease-ontology.org/) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4383880/) - An ontology of human diseases. Has cross-links to MeSH, ICD, NCI Thesaurus, SNOMED, and OMIM. Public domain. Available on [GitHub](https://github.com/DiseaseOntology/HumanDiseaseOntology) ⭐ 421 | 🐛 84 | 🌐 Web Ontology Language | 📅 2026-11-12 and on the [OBO Foundry](http://www.obofoundry.org/ontology/doid.html).
+* [Disease Ontology](http://www.disease-ontology.org/) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4383880/) - An ontology of human diseases. Has cross-links to MeSH, ICD, NCI Thesaurus, SNOMED, and OMIM. Public domain. Available on [GitHub](https://github.com/DiseaseOntology/HumanDiseaseOntology) ⭐ 421 | 🐛 84 | 🌐 Web Ontology Language | 📅 2026-11-13 and on the [OBO Foundry](http://www.obofoundry.org/ontology/doid.html).
 * [RxNorm](https://www.nlm.nih.gov/research/umls/rxnorm/index.html) - [paper](https://academic.oup.com/jamia/article/18/4/441/734170) - Normalized names for clinical drugs and drug packs, with combined ingredients, strengths, and form, and assigned types from the Semantic Network (see below). Released monthly.
 * [SPECIALIST Lexicon](https://lexsrv3.nlm.nih.gov/Specialist/Summary/lexicon.html) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2247735/) - A general English lexicon that includes many biomedical terms. Updated yearly since 1994 and still updated as of 2019. Part of UMLS but does not require UTS account to download.
 * [UMLS Metathesaurus](https://www.nlm.nih.gov/research/umls/knowledge_sources/metathesaurus/index.html) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC308795/) - Mappings between >3.8 million concepts, 14 million concept names, and >200 sources of biomedical vocabulary and identifiers. It's big. It may help to prepare a subset of the Metathesaurus with the [MetamorphoSys installation tool](https://www.nlm.nih.gov/research/umls/implementation_resources/metamorphosys/help.html) but we're still talking about \~30 Gb of disk space required for the 2019 release. [See the manual here](https://www.ncbi.nlm.nih.gov/books/NBK9684/). Requires UTS account.
@@ -282,7 +282,7 @@ Protein-protein interactions are abbreviated as PPI. The following sets are avai
 Do you need a [data model](https://en.wikipedia.org/wiki/Data_model)? If you are working with biomedical data, then the answer is probably "Yes".
 
 * [OMOP Common Data Model](https://github.com/OHDSI/CommonDataModel) ⭐ 1,101 | 🐛 81 | 🌐 HTML | 📅 2026-10-28 - a standard for observational healthcare data.
-* [Biolink](https://biolink.github.io/biolink-model/) - [code](https://github.com/biolink/biolink-model) ⭐ 271 | 🐛 208 | 🌐 Python | 📅 2026-11-12 - A data model of biological entities. Provided as a [YAML](https://yaml.org/) file.
+* [Biolink](https://biolink.github.io/biolink-model/) - [code](https://github.com/biolink/biolink-model) ⭐ 271 | 🐛 207 | 🌐 Python | 📅 2026-11-14 - A data model of biological entities. Provided as a [YAML](https://yaml.org/) file.
 * [unmiri-ngs-fhir-schema](https://github.com/unmirihealth/unmiri-ngs-fhir-schema) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-05-09 - Apache-2.0 JSON Schema (Draft 2020-12) API contract for cross-vendor somatic NGS interpretation output (Foundation Medicine, Tempus, Caris, Guardant), aligned with the HL7 FHIR Genomics IG. A standards-aligned target representation for biomedical information-extraction pipelines that parse oncology lab reports.
 * [BioUML](http://wiki.biouml.org/index.php/BioUML) - [paper](https://academic.oup.com/nar/article/47/W1/W225/5498754) - An architecture for biomedical data analysis, integration, and visualization. Conceptually based on the visual modeling language [UML](https://www.uml.org/what-is-uml.htm).
 
@@ -300,4 +300,4 @@ Do you need a [data model](https://en.wikipedia.org/wiki/Data_model)? If you are
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
