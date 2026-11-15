@@ -18,7 +18,7 @@ BioIE has undergone massive changes since the introduction of language models li
 
 Resources included here are preferentially those available at no monetary cost and limited license requirements. Methods and datasets should be publicly accessible and actively maintained.
 
-See also [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 19,157 | 🐛 16 | 📅 2026-10-12, [awesome-biology](https://github.com/raivivek/awesome-biology) ⭐ 461 | 🐛 5 | 📅 2026-05-17 and [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) ⭐ 4,365 | 🐛 58 | 📅 2026-09-27.
+See also [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 19,158 | 🐛 16 | 📅 2026-10-12, [awesome-biology](https://github.com/raivivek/awesome-biology) ⭐ 461 | 🐛 5 | 📅 2026-05-17 and [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics) ⭐ 4,367 | 🐛 59 | 📅 2026-09-27.
 
 *Please read the [contribution guidelines](contributing.md) before contributing. Please add your favourite resource by raising a [pull request](https://github.com/caufieldjh/awesome-bioie/pulls).*
 
@@ -149,16 +149,16 @@ The field changes rapidly enough that tutorials any older than a few years are m
 
 ## Code Libraries
 
-* [Biopython](https://biopython.org/) - [paper](http://dx.doi.org/10.1093/bioinformatics/btp163) - [code](https://github.com/biopython/biopython) ⭐ 5,273 | 🐛 636 | 🌐 Python | 📅 2026-11-12 - Python tools primarily intended for bioinformatics and computational molecular biology purposes, but also a convenient way to obtain data, including documents/abstracts from PubMed (see Chapter 9 of the documentation).
+* [Biopython](https://biopython.org/) - [paper](http://dx.doi.org/10.1093/bioinformatics/btp163) - [code](https://github.com/biopython/biopython) ⭐ 5,274 | 🐛 636 | 🌐 Python | 📅 2026-11-12 - Python tools primarily intended for bioinformatics and computational molecular biology purposes, but also a convenient way to obtain data, including documents/abstracts from PubMed (see Chapter 9 of the documentation).
 * [ScispaCy](https://github.com/allenai/SciSpaCy) ⭐ 2,003 | 🐛 58 | 🌐 Python | 📅 2025-12-04 - [paper](https://arxiv.org/abs/1902.07669) - A version of the [spaCy](https://spacy.io/) framework for scientific and biomedical documents.
 * [medaCy](https://github.com/NLPatVCU/medaCy) ⭐ 441 | 🐛 23 | 🌐 Python | 📅 2022-11-01 - A system for building predictive medical natural language processing models. Built on the [spaCy](https://spacy.io/) framework.
 * [Med7](https://medium.com/@kormilitzin/med7-clinical-information-extraction-system-in-python-and-spacy-5e6f68ab1c68) - [paper](https://arxiv.org/abs/2003.01271) - [code](https://github.com/kormilitzin/med7) ⭐ 227 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2024-12-11 - a Python package and model (for use with spaCy) for doing NER with medication-related concepts.
-* [rentrez](https://github.com/ropensci/rentrez) ⭐ 221 | 🐛 56 | 🌐 R | 📅 2026-11-01 - R utilities for accessing NCBI resources, including PubMed.
+* [rentrez](https://github.com/ropensci/rentrez) ⭐ 221 | 🐛 46 | 🌐 R | 📅 2026-11-15 - R utilities for accessing NCBI resources, including PubMed.
 * [Bio-SCoRes](https://github.com/kilicogluh/Bio-SCoRes) ⭐ 10 | 🐛 0 | 🌐 Java | 📅 2020-04-16 - [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0148538) - A framework for biomedical coreference resolution.
 
 ### Repos for Specific Datasets
 
-* [mimic-code](https://github.com/MIT-LCP/mimic-code) ⭐ 3,440 | 🐛 320 | 🌐 Jupyter Notebook | 📅 2026-09-01 - Code associated with the MIMIC-III dataset (see below). Includes some helpful [tutorials](https://github.com/MIT-LCP/mimic-code/tree/master/tutorials) ⭐ 3,440 | 🐛 320 | 🌐 Jupyter Notebook | 📅 2026-09-01.
+* [mimic-code](https://github.com/MIT-LCP/mimic-code) ⭐ 3,441 | 🐛 319 | 🌐 Jupyter Notebook | 📅 2026-09-01 - Code associated with the MIMIC-III dataset (see below). Includes some helpful [tutorials](https://github.com/MIT-LCP/mimic-code/tree/master/tutorials) ⭐ 3,441 | 🐛 319 | 🌐 Jupyter Notebook | 📅 2026-09-01.
 
 [Back to Top](#contents)
 
@@ -205,7 +205,7 @@ The field changes rapidly enough that tutorials any older than a few years are m
 
 ### Other models
 
-* [Flair embeddings from PubMed](https://github.com/zalandoresearch/flair/pull/519) ⭐ 14,400 | 🐛 34 | 🌐 Python | 📅 2026-10-19 - A language model available through the Flair framework and embedding method. Trained over a 5% sample of PubMed abstracts until 2015, or > 1.2 million abstracts in total.
+* [Flair embeddings from PubMed](https://github.com/zalandoresearch/flair/pull/519) ⭐ 14,401 | 🐛 34 | 🌐 Python | 📅 2026-10-19 - A language model available through the Flair framework and embedding method. Trained over a 5% sample of PubMed abstracts until 2015, or > 1.2 million abstracts in total.
 
 ### Text Embeddings
 
@@ -223,7 +223,7 @@ Some of the datasets listed below require a [UMLS Terminology Services (UTS) acc
 
 The following resources contain indexed text documents in the biomedical sciences.
 
-* [CORD-19](https://github.com/allenai/cord19) ⭐ 190 | 🐛 2 | 📅 2025-05-14 - A corpus of scholarly manuscripts concerning COVID-19. Articles are primarily from PubMed Central and preprint servers, though the set also includes metadata on papers without full-text availability.
+* [CORD-19](https://github.com/allenai/cord19) ⭐ 191 | 🐛 2 | 📅 2025-05-14 - A corpus of scholarly manuscripts concerning COVID-19. Articles are primarily from PubMed Central and preprint servers, though the set also includes metadata on papers without full-text availability.
 * [OHSUMED](http://davis.wpi.edu/xmdv/datasets/ohsumed.html) - [paper](https://dl.acm.org/citation.cfm?id=188557) - 348,566 MEDLINE entries (title and sometimes abstract) from between 1987 and 1991. Includes MeSH labels. Primarily of historical significance.
 * [PubMed Central Open Access Subset](https://www.ncbi.nlm.nih.gov/pmc/tools/openftlist/) - A set of PubMed Central articles usable under licenses other than traditional copyright, though the exact licenses vary by publication and source. Articles are available as PDF and XML.
 
@@ -282,7 +282,7 @@ Protein-protein interactions are abbreviated as PPI. The following sets are avai
 Do you need a [data model](https://en.wikipedia.org/wiki/Data_model)? If you are working with biomedical data, then the answer is probably "Yes".
 
 * [OMOP Common Data Model](https://github.com/OHDSI/CommonDataModel) ⭐ 1,101 | 🐛 81 | 🌐 HTML | 📅 2026-10-28 - a standard for observational healthcare data.
-* [Biolink](https://biolink.github.io/biolink-model/) - [code](https://github.com/biolink/biolink-model) ⭐ 271 | 🐛 207 | 🌐 Python | 📅 2026-11-14 - A data model of biological entities. Provided as a [YAML](https://yaml.org/) file.
+* [Biolink](https://biolink.github.io/biolink-model/) - [code](https://github.com/biolink/biolink-model) ⭐ 271 | 🐛 207 | 🌐 Python | 📅 2026-11-15 - A data model of biological entities. Provided as a [YAML](https://yaml.org/) file.
 * [unmiri-ngs-fhir-schema](https://github.com/unmirihealth/unmiri-ngs-fhir-schema) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-05-09 - Apache-2.0 JSON Schema (Draft 2020-12) API contract for cross-vendor somatic NGS interpretation output (Foundation Medicine, Tempus, Caris, Guardant), aligned with the HL7 FHIR Genomics IG. A standards-aligned target representation for biomedical information-extraction pipelines that parse oncology lab reports.
 * [BioUML](http://wiki.biouml.org/index.php/BioUML) - [paper](https://academic.oup.com/nar/article/47/W1/W225/5498754) - An architecture for biomedical data analysis, integration, and visualization. Conceptually based on the visual modeling language [UML](https://www.uml.org/what-is-uml.htm).
 
@@ -300,4 +300,4 @@ Do you need a [data model](https://en.wikipedia.org/wiki/Data_model)? If you are
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
