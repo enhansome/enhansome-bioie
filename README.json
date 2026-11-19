@@ -129,7 +129,7 @@
             "open_issues": 46,
             "owner": "ropensci",
             "repo": "rentrez",
-            "stars": 222,
+            "stars": 223,
             "topics": [
               "r",
               "r-package",
@@ -608,7 +608,7 @@
                 "open_issues": 75,
                 "owner": "microsoft",
                 "repo": "BioGPT",
-                "stars": 4478,
+                "stars": 4477,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:31.776Z"
@@ -767,7 +767,7 @@
             "open_issues": 81,
             "owner": "OHDSI",
             "repo": "CommonDataModel",
-            "stars": 1101,
+            "stars": 1102,
             "topics": []
           },
           "first_seen": "2026-08-28T20:10:31.776Z"
@@ -837,7 +837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T17:10:44.087Z",
+    "last_updated": "2026-11-19T17:18:54.126Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧫 A curated list of resources relevant to doing Biomedical Information Extraction (including BioNLP)",
