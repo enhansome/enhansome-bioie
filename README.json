@@ -19,7 +19,7 @@
             "open_issues": 633,
             "owner": "biopython",
             "repo": "biopython",
-            "stars": 5277,
+            "stars": 5276,
             "topics": [
               "bioinformatics",
               "biopython",
@@ -608,7 +608,7 @@
                 "open_issues": 75,
                 "owner": "microsoft",
                 "repo": "BioGPT",
-                "stars": 4478,
+                "stars": 4477,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:31.776Z"
@@ -764,7 +764,7 @@
             "language": "HTML",
             "license": null,
             "last_commit": "2026-10-28T16:37:12Z",
-            "open_issues": 87,
+            "open_issues": 88,
             "owner": "OHDSI",
             "repo": "CommonDataModel",
             "stars": 1103,
@@ -837,7 +837,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T16:05:32.136Z",
+    "last_updated": "2026-11-22T16:11:42.105Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧫 A curated list of resources relevant to doing Biomedical Information Extraction (including BioNLP)",
